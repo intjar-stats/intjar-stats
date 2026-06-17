@@ -1,140 +1,149 @@
-<h1 align="center">Hi 👋, I'm MD INTJAR</h1>
+# Hi, I'm MD Intjar
 
-<h3 align="center">
-M.Sc. Statistics Student | Gold Medalist 🏅 | Remote Sensing & Spatial Data Analytics Researcher
-</h3>
+M.Sc. Statistics Student, Aligarh Muslim University (2025–2027)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-intjar-statistics">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  
-  <a href="mailto:intjar.bstats@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+University Gold Medalist in B.A. (Hons.) Statistics, Patna University
 
 ---
 
-## 🎓 Education
+## Education
 
-- M.Sc. Statistics (2025–2027)
-  - Aligarh Muslim University, Aligarh
+### Aligarh Muslim University
+**M.Sc. Statistics**  
+2025–2027
 
-- B.A. (Hons.) Statistics
-  - Patna University
-  - 🏅 University Gold Medalist
-
----
-
-## 👨‍🔬 Research Interests
-
-- Bayesian Statistics
-- Spatial Statistics
-- Remote Sensing
-- GIS & Geospatial Analytics
-- Time Series Forecasting
-- Machine Learning
-- Environmental Statistics
-- Agricultural Data Analytics
+### Patna University
+**B.A. (Hons.) Statistics**  
+University Gold Medalist
 
 ---
 
-## 🛰 Current Research
+## About Me
+
+I am currently pursuing an M.Sc. in Statistics at Aligarh Muslim University. My academic interests include Bayesian Statistics, Spatial Statistics, Time Series Analysis, Machine Learning, GIS and Remote Sensing.
+
+I enjoy working with real-world datasets and applying statistical methods to environmental, spatial and socio-economic problems. My work mainly involves R, Python, Google Earth Engine and QGIS.
+
+---
+
+## Research Experience
+
+### Research Intern
+**Indian Institute of Technology (IIT) Indore**  
+May 2026 – Present (Remote)
+
+Working under the supervision of Dr. Ashootosh Mandpe, Department of Civil Engineering, IIT Indore.
+
+Current work focuses on:
+- GIS and Remote Sensing
+- Machine Learning based Spatial Modelling
+- Land Use/Land Cover Analysis
+- Illegal Dumping Site Detection
+- Landfill Site Suitability Assessment
+- Geospatial Literature Review
+
+Tools used:
+- Google Earth Engine (GEE)
+- QGIS
+- R
+- Spatial Data Analysis Techniques
+
+### Research Intern
+**IDEAS Foundation, ISI Kolkata**  
+2026
+
+Contributed to research-oriented academic activities related to population and development studies.
+
+---
+
+## Current Research
 
 ### NDVI Vegetation Analysis and Forecasting for Aligarh District
 
-Research based on:
+M.Sc. Dissertation Project
 
-- Google Earth Engine (GEE)
-- MODIS Satellite Data
+The study examines vegetation dynamics in Aligarh District using MODIS satellite data from 2001 onwards. The project involves extraction of NDVI data through Google Earth Engine, trend analysis, seasonal decomposition and forecasting using statistical time series models.
+
+Methods and tools:
+- Google Earth Engine
+- MODIS NDVI Data
 - R Programming
-- ARIMA & SARIMA
+- QGIS
+- ARIMA
+- SARIMA
 - Bayesian Linear Regression
-- QGIS Spatial Analysis
-
-Key Features:
-
-✔ 24 Years NDVI Analysis (2001–2024)
-
-✔ Time Series Forecasting
-
-✔ Spatial Vegetation Monitoring
-
-✔ Forecast Validation using 2025 Data
-
-✔ Bayesian Statistical Modelling
+- Time Series Forecasting
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ### Programming
-
 - R
 - Python
 
-### GIS & Remote Sensing
-
+### GIS and Remote Sensing
 - Google Earth Engine
 - QGIS
-- MODIS
 - Remote Sensing
+- MODIS Data Processing
 
-### Data Analytics
-
+### Data Analysis
 - Power BI
-- DAX
 - SPSS
-- MS Excel
+- Microsoft Excel
 
 ### Statistics
-
 - Bayesian Inference
 - Survival Analysis
+- Regression Analysis
 - Time Series Analysis
-- Regression Modelling
 - Statistical Quality Control
 - Machine Learning
 
 ---
 
-## 📂 Featured Projects
+## Academic Interests
 
-### 🛰 NDVI Vegetation Dynamics Analysis
-Satellite-based vegetation monitoring using MODIS and Google Earth Engine.
-
-### 🏏 Cricket Analytics
-Statistical Analysis of Virat Kohli's Centuries using Power BI and R.
-
-### 📊 Spatial Data Analysis
-Spatio-temporal modelling using GIS and Remote Sensing techniques.
-
----
-
-## 🏆 Achievements
-
-🥇 University Gold Medalist
-
-🎓 Merit Award Recipient (2025–26)
-
-📚 Research Intern – IDEAS Foundation, ISI Kolkata (2026)
+- Bayesian Statistics
+- Spatial Statistics
+- Remote Sensing
+- GIS and Geospatial Analytics
+- Machine Learning
+- Environmental Statistics
+- Time Series Forecasting
 
 ---
 
-## 📈 GitHub Stats
+## Selected Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=intjar-stats&show_icons=true)
+### NDVI Vegetation Analysis and Forecasting for Aligarh District
+Satellite-based vegetation monitoring and forecasting using MODIS NDVI data, Google Earth Engine and R.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intjar-stats&layout=compact)
+### Cricket Analytics
+Statistical analysis of Virat Kohli's centuries using Power BI and R.
 
----
-
-## 🌍 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/md-intjar-statistics
-- Email: intjar.bstats@gmail.com
+### Spatial Data Analysis
+Applications of GIS and Remote Sensing for spatial and environmental studies.
 
 ---
 
-⭐ Exploring Statistics, Remote Sensing, GIS and Machine Learning through Research & Data Analytics.
+## Awards and Recognition
+
+- University Gold Medalist, Patna University
+- Merit Award Recipient (2025–26)
+- Research Intern, IIT Indore
+- Research Intern, IDEAS Foundation, ISI Kolkata
+
+---
+
+## Contact
+
+**Email:** intjar.bstats@gmail.com
+
+**LinkedIn:**  
+https://www.linkedin.com/in/md-intjar-statistics
+
+---
+
+Statistics • Spatial Analysis • Remote Sensing • Machine Learning
