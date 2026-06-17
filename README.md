@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Md Intjar</h1>
+<h1 align="center">Hi 👋, I'm MD INTJAR</h1>
+
+<h3 align="center">
+M.Sc. Statistics Student | Gold Medalist 🏅 | Remote Sensing & Spatial Data Analytics Researcher
+</h3>
 
 <p align="center">
-M.Sc. Statistics Student | University Gold Medalist 🏅 | Research Intern @ IIT Indore
-</p>
-
-<p align="center">
-Statistics • Spatial Analytics • Remote Sensing • Machine Learning
+  <a href="https://www.linkedin.com/in/md-intjar-statistics">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  
+  <a href="mailto:intjar.bstats@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
