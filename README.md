@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD INTJAR</h1>
 
 <h3 align="center">
-M.Sc. Statistics Student | Gold Medalist 🏅 | Remote Sensing & Spatial Data Analytics Researcher
+M.Sc. Statistics Student | Gold Medalist 🏅 | Research Intern @ IIT Indore & IDEAS Foundation ISI Kolkata| Remote Sensing & Spatial Data Analytics Researcher
 </h3>
 
 <p align="center">
