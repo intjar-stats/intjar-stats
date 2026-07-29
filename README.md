@@ -6,7 +6,7 @@
 
 <h3 align="center">
 🎓 M.Sc. in Statistics • 🌍 Geo-Spatial Analytics Researcher • 🛰 Remote Sensing & Spatial Data Analytics <br>
-🥇 University Gold Medalist • 📊 Research Intern @ IIT Indore & IDEAS Foundation, ISI Kolkata
+🥇 University Gold Medalist • 🏛 Research Intern @ IIT Indore & IDEAS Foundation, ISI Kolkata
 </h3>
 
 <p align="center">
