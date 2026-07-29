@@ -115,6 +115,10 @@ Working on research related to **GIS, Remote Sensing, and Geospatial Data Analyt
 
 ### Project: AI-Powered Career Guidance System
 
+🔗 **Project Repository:** [AI-Powered Career Guidance System](https://github.com/your-username/repository-name)
+
+🌐 **Live Demo:** https://your-streamlit-app.streamlit.app
+
 Contributing to the development of an **AI-powered web-based career guidance system** that delivers **personalized and explainable career recommendations** based on a student's **academic background, technical and soft skills, and career interests**. The system integrates **supervised machine learning, generative AI, and interactive analytics** to support evidence-based career planning.
 
 The recommendation engine is built using a **multi-label XGBoost classifier**, trained on a dataset of over **2,000 student profiles** and evaluated against **K-Nearest Neighbors (KNN), Decision Tree, and Random Forest** models. It predicts the **top three career pathways** with confidence scores and performs a **personalized skill gap analysis** by comparing a student's existing competencies with career-specific requirements. Based on this analysis, the system generates **structured learning roadmaps** to guide skill development.
