@@ -96,7 +96,7 @@ Graduated with First Rank in Statistics, building a strong foundation in statist
 
 ---
 
-# 🔬 Research Experience💼
+# 🔬 Research Experience
 
 
 ## 🏛 Indian Institute of Technology (IIT) Indore
@@ -134,11 +134,11 @@ Contributed to the development of an AI-powered career guidance platform integra
 - Deployed the application using Streamlit
 
 ---
-# 🌿 Research Projects
+# 💼 Research Projects
 
 ---
 
-## NDVI Vegetation Dynamics & Forecasting for Aligarh District
+## 🌿NDVI Vegetation Dynamics & Forecasting for Aligarh District
 
 A research project focused on analysing and forecasting long-term vegetation dynamics using satellite-derived NDVI data and statistical time-series modelling.
 
@@ -163,7 +163,7 @@ A research project focused on analysing and forecasting long-term vegetation dyn
 
 ---
 
-## AI-Powered Career Guidance System
+## 🎯AI-Powered Career Guidance System
 
 An intelligent career recommendation platform integrating Machine Learning, Explainable AI, and Generative AI to deliver personalized career guidance and skill-gap analysis.
 
@@ -192,7 +192,7 @@ An intelligent career recommendation platform integrating Machine Learning, Expl
 
 ---
 
-## GIS-Based Environmental Analytics
+## 🗺️GIS-Based Environmental Analytics
 
 An ongoing research project at **IIT Indore** exploring the integration of GIS, Remote Sensing, and Machine Learning for environmental monitoring and sustainable spatial planning.
 
@@ -217,7 +217,7 @@ An ongoing research project at **IIT Indore** exploring the integration of GIS, 
 
 ---
 
-## Statistical Analysis of Virat Kohli's Centuries
+## 🏏Statistical Analysis of Virat Kohli's Centuries
 
 An undergraduate research project applying statistical methods and interactive data visualization to analyse batting performance across different match conditions.
 
