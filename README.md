@@ -109,7 +109,7 @@ Working on research related to **GIS, Remote Sensing, and Geospatial Data Analyt
 
 **May 2026 – Present (Hybrid)**
 
-**Mentor:** Sandip Bhattacharya
+**Mentor:** Mr. Sandip Bhattacharya
 
 **Research Focus:** Artificial Intelligence, Machine Learning, Recommendation Systems, and Educational Data Analytics.
 
