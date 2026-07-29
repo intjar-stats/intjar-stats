@@ -340,46 +340,6 @@ Awarded the **Postgraduate Merit Scholarship** in recognition of outstanding aca
 
 > *Professional certifications and government-recognized qualifications supporting my expertise in statistics, computing, and data analytics.*
 
----
-
-## 🖥️ NIELIT 'O' Level Certification
-
-![](https://img.shields.io/badge/Status-Certified-success?style=flat-square)
-![](https://img.shields.io/badge/Organization-NIELIT-1565C0?style=flat-square)
-![](https://img.shields.io/badge/Government%20of%20India-Approved-FF9933?style=flat-square)
-
-Successfully completed the **NIELIT 'O' Level Certification**, gaining a strong foundation in computer applications, programming, database management, web technologies, and information technology.
-
-**Key Learning Areas**
-
-- Python Programming
-- Web Designing & Publishing
-- Database Management Systems
-- Internet of Things (IoT)
-- Information Technology Tools
-- Computer Networks
-
----
-
-## 💻 Course on Computer Concepts (CCC)
-
-![](https://img.shields.io/badge/Status-Certified-success?style=flat-square)
-![](https://img.shields.io/badge/Organization-NIELIT-1565C0?style=flat-square)
-![](https://img.shields.io/badge/Government%20of%20India-Approved-FF9933?style=flat-square)
-
-Completed the **Course on Computer Concepts (CCC)** conducted by **NIELIT**, covering digital literacy, office productivity tools, internet applications, and e-governance services.
-
-**Key Learning Areas**
-
-- Microsoft Office
-- Internet & Email
-- Digital Communication
-- E-Governance
-- Computer Fundamentals
-
----
-# 📜 Certifications
-
 ### 💻 NIELIT 'O' Level Certification
 **National Institute of Electronics & Information Technology (NIELIT)**  
 Government of India
