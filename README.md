@@ -159,6 +159,11 @@ A **Generative AI module**, integrated through the **OpenRouter API**, provides 
 
 ## 🌿 NDVI Vegetation Analysis and Forecasting for Aligarh District
 
+![](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![](https://img.shields.io/badge/Type-M.Sc.%20Dissertation-8A2BE2?style=flat-square)
+![](https://img.shields.io/badge/Institution-AMU-006400?style=flat-square)
+![](https://img.shields.io/badge/Year-2026-lightgrey?style=flat-square)
+
 **M.Sc. Dissertation | Aligarh Muslim University**
 
 Developed a geospatial framework for monitoring and forecasting vegetation dynamics in **Aligarh District, Uttar Pradesh**, using **MODIS NDVI satellite imagery**. The study integrates **Google Earth Engine (GEE)** for satellite data extraction, **QGIS** for spatial analysis, and **R** for statistical modelling and time series forecasting. Annual and monthly NDVI trends were analysed to assess long-term vegetation changes and predict future vegetation conditions using statistical forecasting models.
