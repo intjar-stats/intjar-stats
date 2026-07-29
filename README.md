@@ -160,22 +160,22 @@ A **Generative AI module**, integrated through the **OpenRouter API**, provides 
 ## 🌿 NDVI Vegetation Analysis and Forecasting for Aligarh District
 
 ![](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![](https://img.shields.io/badge/Type-M.Sc.%20Dissertation-8A2BE2?style=flat-square)
-![](https://img.shields.io/badge/Institution-AMU-006400?style=flat-square)
+![](https://img.shields.io/badge/Research-Time%20Series-1976D2?style=flat-square)
+![](https://img.shields.io/badge/Domain-Remote%20Sensing-00897B?style=flat-square)
 ![](https://img.shields.io/badge/Year-2026-lightgrey?style=flat-square)
 
 **M.Sc. Dissertation | Aligarh Muslim University**
 
-Developed a geospatial framework for monitoring and forecasting vegetation dynamics in **Aligarh District, Uttar Pradesh**, using **MODIS NDVI satellite imagery**. The study integrates **Google Earth Engine (GEE)** for satellite data extraction, **QGIS** for spatial analysis, and **R** for statistical modelling and time series forecasting. Annual and monthly NDVI trends were analysed to assess long-term vegetation changes and predict future vegetation conditions using statistical forecasting models.
+Developed a geospatial framework for monitoring and forecasting vegetation dynamics in **Aligarh District, Uttar Pradesh**, using **MODIS NDVI satellite imagery**. The study integrates **Google Earth Engine (GEE)** for satellite data extraction, **QGIS** for spatial analysis, and **R** for statistical modelling and time-series forecasting. Annual and monthly NDVI trends were analysed to assess long-term vegetation dynamics and forecast future vegetation conditions using statistical time-series models.
 
-### Highlights
+### Key Contributions
 
-- 🌍 Google Earth Engine-based satellite data extraction
-- 🛰 MODIS NDVI time-series analysis (2001–2025)
-- 📈 ARIMA & SARIMA forecasting models
-- 🌱 Vegetation trend and seasonal analysis
-- 📊 Spatial visualization using QGIS
-- 📑 Reproducible statistical workflow in R
+- 🌍 Developed an end-to-end NDVI analysis workflow using Google Earth Engine.
+- 🛰 Processed MODIS satellite imagery (2001–2025) for vegetation monitoring.
+- 📈 Built ARIMA and SARIMA forecasting models for NDVI prediction.
+- 🌱 Performed trend, seasonality, and forecasting analyses in R.
+- 🗺 Produced geospatial visualizations using QGIS.
+- 📄 Developed a reproducible research workflow for environmental monitoring.
 
 ### Technologies
 
@@ -187,28 +187,38 @@ Developed a geospatial framework for monitoring and forecasting vegetation dynam
 ![](https://img.shields.io/badge/SARIMA-6A1B9A?style=for-the-badge)
 ![](https://img.shields.io/badge/Remote%20Sensing-00897B?style=for-the-badge)
 
+### Project Links
+
+<p>
+
+<a href="https://github.com/intjar-stats/ndvi-vegetation-dynamics-aligarh">
+<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
 ## 🤖 AI-Powered Career Guidance System
 
 ![](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![](https://img.shields.io/badge/Type-Research%20Internship-1565C0?style=flat-square)
-![](https://img.shields.io/badge/Institution-ISI%20Kolkata-880E4F?style=flat-square)
+![](https://img.shields.io/badge/Research-Machine%20Learning-F57C00?style=flat-square)
+![](https://img.shields.io/badge/Domain-Generative%20AI-8E24AA?style=flat-square)
 ![](https://img.shields.io/badge/Year-2026-lightgrey?style=flat-square)
 
 **Research Internship | IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata**
 
-Designed and developed an AI-powered web application that provides personalized and explainable career recommendations using **Machine Learning**, **Generative AI**, and **Educational Data Analytics**. The system predicts the most suitable career pathways, identifies personalized skill gaps, generates structured learning roadmaps, and performs AI-assisted resume evaluation through an interactive Streamlit application.
+Designed and developed an AI-powered web application that delivers **personalized and explainable career recommendations** using **Machine Learning**, **Generative AI**, and **Educational Data Analytics**. The recommendation engine employs a multi-label **XGBoost classifier**, generating Top-3 career recommendations, personalized skill-gap analysis, structured learning roadmaps, AI-assisted resume evaluation, and interactive career guidance through the OpenRouter API.
 
-### Highlights
+### Key Contributions
 
-- 🤖 Multi-label XGBoost Recommendation Engine
-- 🎯 Top-3 Personalized Career Recommendations
-- 📉 Personalized Skill Gap Analysis
-- 🧠 Explainable AI using OpenRouter API
-- 📄 AI Resume Analysis
-- 📊 Power BI Dashboard
-- 🌐 Streamlit Cloud Deployment
+- 🤖 Developed a multi-label XGBoost recommendation engine.
+- 🎯 Generated Top-3 personalized career recommendations.
+- 📉 Implemented personalized skill-gap analysis.
+- 🧠 Integrated Generative AI using OpenRouter API.
+- 📄 Developed AI-powered resume analysis.
+- 📊 Built an interactive Power BI dashboard.
+- 🌐 Deployed the application on Streamlit Community Cloud.
 
 ### Technologies
 
@@ -217,7 +227,10 @@ Designed and developed an AI-powered web application that provides personalized 
 ![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![](https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge)
 ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![](https://img.shields.io/badge/OpenRouter%20API-7B1FA2?style=for-the-badge)
 ![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Project Links
 
 <p>
 
@@ -236,22 +249,22 @@ Designed and developed an AI-powered web application that provides personalized 
 ## 🌍 GIS-Based Environmental Analytics
 
 ![](https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square)
-![](https://img.shields.io/badge/Type-Research%20Internship-1565C0?style=flat-square)
-![](https://img.shields.io/badge/Institution-IIT%20Indore-C62828?style=flat-square)
+![](https://img.shields.io/badge/Research-Geospatial%20Analytics-2E7D32?style=flat-square)
+![](https://img.shields.io/badge/Domain-GIS%20%26%20Remote%20Sensing-1565C0?style=flat-square)
 ![](https://img.shields.io/badge/Year-2026-lightgrey?style=flat-square)
 
-**Research Internship | IIT Indore**
+**Research Internship | Indian Institute of Technology (IIT) Indore**
 
 Working on geospatial analytics for environmental applications using **GIS**, **Remote Sensing**, and **Machine Learning**. The project focuses on land use/land cover mapping, illegal dumping site detection, landfill suitability assessment, and spatial decision support for sustainable environmental management.
 
-### Highlights
+### Key Contributions
 
-- 🛰 Remote Sensing
-- 🌍 GIS-based Spatial Analysis
-- ♻ Landfill Suitability Assessment
-- 🚮 Illegal Dumping Site Detection
-- 🤖 Machine Learning
-- 📈 Environmental Decision Support
+- 🌍 GIS-based spatial data processing.
+- 🛰 Remote sensing data analysis.
+- ♻ Landfill suitability assessment.
+- 🚮 Illegal dumping site detection.
+- 🤖 Machine Learning for environmental analytics.
+- 📈 Geospatial decision support.
 
 ### Technologies
 
@@ -266,27 +279,28 @@ Working on geospatial analytics for environmental applications using **GIS**, **
 ## 📊 Statistical Analysis of Virat Kohli's Centuries
 
 ![](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![](https://img.shields.io/badge/Type-Bachelor's%20Research-6A1B9A?style=flat-square)
-![](https://img.shields.io/badge/Institution-Patna%20University-0D47A1?style=flat-square)
+![](https://img.shields.io/badge/Research-Sports%20Analytics-F9A825?style=flat-square)
+![](https://img.shields.io/badge/Domain-Statistical%20Analysis-1565C0?style=flat-square)
 ![](https://img.shields.io/badge/Year-2025-lightgrey?style=flat-square)
 
 **Bachelor's Research Project | Patna University**
 
-Performed a statistical analysis of Virat Kohli's international centuries using descriptive statistics, exploratory data analysis, and interactive dashboards. The project examined performance trends, match conditions, and run-scoring patterns while presenting insights through Power BI visualizations.
+Conducted a statistical analysis of Virat Kohli's international centuries using descriptive statistics, exploratory data analysis, and interactive Power BI dashboards. The study examined performance trends, match conditions, run-scoring patterns, and predictive insights through statistical visualization.
 
-### Highlights
+### Key Contributions
 
-- 📊 Exploratory Data Analysis
-- 📈 Statistical Visualization
-- 🏏 Performance Trend Analysis
-- 📉 Interactive Dashboard
-- 📚 Sports Analytics
+- 🏏 Statistical performance analysis.
+- 📈 Exploratory Data Analysis.
+- 📊 Interactive Power BI dashboard.
+- 📉 Performance trend visualization.
+- 📚 Sports analytics and predictive insights.
 
 ### Technologies
 
 ![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![](https://img.shields.io/badge/Statistics-1565C0?style=for-the-badge)
+
 
 ---
 
