@@ -51,6 +51,17 @@ My recent work includes **NDVI-based vegetation dynamics modelling using satelli
 As an aspiring researcher, I aim to contribute to interdisciplinary research at the intersection of **Statistics**, **Environmental Data Science**, **Artificial Intelligence**, and **Geo-Spatial Analytics**, while promoting reproducible research and open science.
 
 ---
+# 🎯 Research Vision
+
+My long-term research goal is to advance the development of statistically rigorous and computationally efficient methods for understanding complex environmental and societal systems through **Bayesian Statistics**, **Geo-Spatial Analytics**, and **Artificial Intelligence**.
+
+I am particularly interested in integrating **Bayesian modelling**, **remote sensing**, **spatial statistics**, and **machine learning** to address real-world challenges in environmental monitoring, ecological modelling, climate resilience, and sustainable resource management.
+
+Through interdisciplinary collaboration and open-source research, I aspire to contribute reproducible methodologies, reliable statistical tools, and scientific software that support evidence-based decision-making across academia, government, and industry.
+
+As I continue my academic journey, I aim to pursue doctoral research and contribute to the global scientific community through high-quality publications, collaborative research, and open science.
+
+---
 # 🎓 Education
 
 ## Aligarh Muslim University (AMU)
