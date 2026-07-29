@@ -47,9 +47,25 @@ Aligarh Muslim University, Aligarh, Uttar Pradesh, India
 **Department of Statistics & Operations Research**  
 **Master of Science (M.Sc.) in Statistics** *(2025 – Present)*
 
-Currently pursuing postgraduate studies with a focus on **Bayesian Statistics, Statistical Inference, Time Series Analysis, Machine Learning, Geo-Spatial Analytics, Remote Sensing, and Spatial Data Science**.
+Currently pursuing postgraduate studies with research interests in **Bayesian Statistics, Ecological Modelling, Geo-Spatial Analytics, Remote Sensing, Time Series Analysis, Spatial Statistics, and Machine Learning**.
 
 🏅 **Awarded the Postgraduate Merit Scholarship (2025–2027)** for outstanding academic performance during the M.Sc. (Statistics) programme.
+
+### Relevant Coursework
+
+- Advanced Statistical Inference
+- Bayesian Inference & Survival Analysis
+- Advanced Probability Theory
+- Advanced Sampling Theory
+- Reliability Theory & Survival Analysis
+- Stochastic Processes
+- Statistical Quality Control
+- Advanced Operations Research
+- Introduction to Machine Learning
+- Data Analysis with Python
+- Research Methodology with R
+- Real Analysis & Linear Algebra
+- Paper Writing & Research with AI Tools
 
 ---
 
@@ -59,7 +75,7 @@ Currently pursuing postgraduate studies with a focus on **Bayesian Statistics, S
 
 🥇 **University Gold Medalist**
 
-Graduated with first position in the university and was awarded the **University Gold Medal** for outstanding academic performance. Built a strong foundation in **Probability Theory, Statistical Inference, Regression Analysis, Sampling Theory, Demography, Statistical Computing, and Mathematics**.
+Graduated with first position in the university and was awarded the **University Gold Medal** for outstanding academic performance. Developed a strong foundation in **Probability Theory, Statistical Inference, Regression Analysis, Sampling Theory, Demography, Statistical Computing, Mathematics, and Data Analysis**.
 
 ---
 
