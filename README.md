@@ -41,16 +41,29 @@ Aligarh Muslim University, Aligarh, Uttar Pradesh, India
 
 ---
 
-## 🎓 Education
+---
 
-### Aligarh Muslim University (AMU)
-**M.Sc. Statistics**  
-2025 – 2027
+# 🎓 Education
 
-### Patna University
-**B.A. (Hons.) Statistics**  
-🥇 University Gold Medalist
+## Aligarh Muslim University (AMU)
+**Department of Statistics & Operations Research**  
+**Master of Science (M.Sc.) in Statistics** *(2025 – Present)*
 
+Currently pursuing postgraduate studies with a focus on **Bayesian Statistics, Statistical Inference, Time Series Analysis, Machine Learning, Geo-Spatial Analytics, Remote Sensing, and Spatial Data Science**.
+
+🏅 **Awarded the Postgraduate Merit Scholarship (2025–2027)** for outstanding academic performance during the M.Sc. (Statistics) programme.
+
+---
+
+## Patna University
+**Patna College, Patna**  
+**Bachelor of Arts (Honours) in Statistics** *(2022 – 2025)*
+
+🥇 **University Gold Medalist**
+
+Graduated with first position in the university and was awarded the **University Gold Medal** for outstanding academic performance. Built a strong foundation in **Probability Theory, Statistical Inference, Regression Analysis, Sampling Theory, Demography, Statistical Computing, and Mathematics**.
+
+---
 ---
 
 ## 👨‍🔬 About Me
