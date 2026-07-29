@@ -1,17 +1,33 @@
-<h1 align="center">Hi 👋, I'm MD INTJAR</h1>
+<h1 align="center">MD INTJAR</h1>
 
 <h3 align="center">
-M.Sc. Statistics Student | Gold Medalist 🏅 | Research Intern @ IIT Indore & IDEAS Foundation ISI Kolkata| Remote Sensing & Spatial Data Analytics Researcher
+M.Sc. in Statistics • Aligarh Muslim University
 </h3>
 
 <p align="center">
+Department of Statistics & Operations Research
+</p>
+
+<p align="center">
+🥇 University Gold Medalist • 🌍 Geo-Spatial Analytics • 🛰 Remote Sensing • 📊 Statistical Computing
+</p>
+
+<p align="center">
+  <a href="https://github.com/intjar-stats">
+    <img src="https://img.shields.io/badge/GitHub-intjar--stats-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/md-intjar-statistics">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:intjar.bstats@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3500&pause=1200&color=1565C0&center=true&vCenter=true&width=900&lines=Statistics+%7C+Data+Science;Geo-Spatial+Analytics;Remote+Sensing+Research;Python+%7C+R+%7C+Google+Earth+Engine;Open+Science+%26+Reproducible+Research"/>
 </p>
 
 ---
