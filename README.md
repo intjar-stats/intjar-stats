@@ -417,3 +417,9 @@ Certified in fundamental computer concepts, digital literacy, office productivit
 </p>
 ---
 
+<p align="center">
+© 2026 MD INTJAR
+<br>
+This profile and its original written content are copyrighted. Open-source repositories are released under their respective licenses (e.g., MIT License).
+</p>
+
