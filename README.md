@@ -115,7 +115,7 @@ Working on research related to **GIS, Remote Sensing, and Geospatial Data Analyt
 
 ### Project: AI-Powered Career Guidance System
 
-🔗 **Project Repository:** [AI-Powered Career Guidance System](https://github.com/your-username/repository-name)
+🔗 **Project Repository:** [AI-Powered Career Guidance System]([https://github.com/your-username/repository-name](https://github.com/intjar-stats/AI-Powered-Career-Guidance-System))
 
 🌐 **Live Demo:** https://your-streamlit-app.streamlit.app
 
