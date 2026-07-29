@@ -103,7 +103,7 @@ Graduated with First Rank in Statistics, building a strong foundation in statist
 
 **Research Intern**  
 *Department of Civil Engineering*  
-**2026 – Present**
+**May 2026 – Present (Remote)**
 
 Conducting interdisciplinary research on environmental applications of **GIS**, **Remote Sensing**, and **Machine Learning** for sustainable spatial planning and environmental monitoring.
 
@@ -118,7 +118,7 @@ Conducting interdisciplinary research on environmental applications of **GIS**, 
 ## IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata
 
 **Research Intern**  
-**2026**
+**May 2026 – Present (Hybrid)**
 
 Contributed to the development of an AI-powered career guidance platform integrating **Machine Learning**, **Generative AI**, and **Explainable AI** for personalized career recommendations.
 
