@@ -107,6 +107,7 @@ Graduated with First Rank in Statistics, building a strong foundation in statist
 **May 2026 – Present (Remote)**
 
 **Supervisor:** Dr. Ashootosh Mandpe
+
 Conducting interdisciplinary research on environmental applications of **GIS**, **Remote Sensing**, and **Machine Learning** for sustainable spatial planning and environmental monitoring.
 
 **Selected Contributions**
@@ -122,9 +123,9 @@ Conducting interdisciplinary research on environmental applications of **GIS**, 
 ## Indian Statistical Institute (ISI), Kolkata
 
 **Research Intern**  
-**Mentor:** Sandip Bhattacharya
-
 **May 2026 – Present (Hybrid)**
+
+**Mentor:** Sandip Bhattacharya
 
 Contributed to the development of an AI-powered career guidance platform integrating **Machine Learning**, **Generative AI**, and **Explainable AI** for personalized career recommendations.
 
