@@ -99,7 +99,7 @@ Graduated with First Rank in Statistics, building a strong foundation in statist
 # 🔬 Research Experience
 
 
-## Indian Institute of Technology (IIT) Indore
+## 🏛 Indian Institute of Technology (IIT) Indore
 
 **Research Intern**  
 *Department of Civil Engineering*  
@@ -115,7 +115,7 @@ Conducting interdisciplinary research on environmental applications of **GIS**, 
 
 ---
 
-## IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata
+## 🏛 IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata
 
 **Research Intern**  
 **May 2026 – Present (Hybrid)**
