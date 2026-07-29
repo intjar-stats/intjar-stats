@@ -323,9 +323,6 @@ My broader research goal is to develop statistically rigorous, computationally e
 
 > *Selected academic achievements, scholarships, and recognitions received throughout my educational and research journey.*
 
----
-# 🏆 Awards & Honors
-
 ### 🥇 University Gold Medal
 **Patna University** • **2025**
 
