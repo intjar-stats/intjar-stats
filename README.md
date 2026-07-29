@@ -11,13 +11,34 @@
 
 <p align="center">
 Department of Statistics & Operations Research <br>
+<!-- ======================= HERO SECTION ======================= -->
+
+<h1 align="center">Hi 👋, I'm MD INTJAR</h1>
+
+<hr>
+
+<h3 align="center">
+🎓 M.Sc. in Statistics • 🌿 Bayesian Ecological Modelling & Geo-Spatial Analytics Researcher • 🛰 Remote Sensing & Spatial Data Analytics
+<br>
+🥇 University Gold Medalist • 🏛 Research Intern @ IIT Indore & IDEAS Foundation, ISI Kolkata
+</h3>
+
+<p align="center">
+Department of Statistics & Operations Research <br>
 Aligarh Muslim University, Aligarh
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3500&pause=1200&color=1565C0&center=true&vCenter=true&width=850&lines=Statistics+%7C+Geo-Spatial+Analytics+%7C+Remote+Sensing;Statistical+Computing+using+R+%26+Python;Google+Earth+Engine+%7C+QGIS;Open+Science+%26+Reproducible+Research" alt="Typing SVG" />
-  </a>
+  <strong>
+    Bayesian Ecological Modelling & Geo-Spatial Analytics
+  </strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3500&pause=1200&color=1565C0&center=true&vCenter=true&width=950&lines=Bayesian+Ecological+Modelling+%26+Geo-Spatial+Analytics+Researcher;Remote+Sensing+%26+Spatial+Data+Analytics;NDVI+Monitoring+%26+Vegetation+Dynamics;Google+Earth+Engine+%7C+QGIS+%7C+R+%7C+Python;Bayesian+Statistics+%7C+Time+Series+Analysis;Open+Science+%26+Reproducible+Research"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -31,10 +52,12 @@ Aligarh Muslim University, Aligarh
 </a>
 
 <a href="https://github.com/intjar-stats">
-<img src="https://img.shields.io/badge/GITHUB-intjar--stats-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-INTJAR--STATS-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
+<!-- =========================================================== -->
 
 ---
 
