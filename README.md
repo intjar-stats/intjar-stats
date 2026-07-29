@@ -93,7 +93,7 @@ I enjoy applying statistical methods and geospatial technologies to understand e
 **May 2026 – Present (Remote)**
 
 **Supervisor:** Dr. Ashootosh Mandpe  
-**Department of Civil Engineering**
+**Department of Civil Engineering, IIT Indore**
 
 Working on research related to **GIS, Remote Sensing, and Geospatial Data Analytics** for environmental applications. My work focuses on integrating **Machine Learning** with spatial data to support **land use/land cover analysis, illegal dumping site detection, landfill site suitability assessment, and geospatial decision-making**. The internship also involves extensive **scientific literature review, spatial data processing, and the development of reproducible geospatial workflows** using modern analytical tools.
 
