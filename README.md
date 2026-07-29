@@ -378,7 +378,23 @@ Completed the **Course on Computer Concepts (CCC)** conducted by **NIELIT**, cov
 - Computer Fundamentals
 
 ---
+# 📜 Certifications
 
+### 💻 NIELIT 'O' Level Certification
+**National Institute of Electronics & Information Technology (NIELIT)**  
+Government of India
+
+A foundational certification covering computer applications, Python programming, web technologies, networking, and information technology.
+
+---
+
+### 🖥️ Course on Computer Concepts (CCC)
+**National Institute of Electronics & Information Technology (NIELIT)**  
+Government of India
+
+Certified in fundamental computer concepts, digital literacy, office productivity tools, and internet applications.
+
+---
 ## 🌍 Commitment to Continuous Learning
 
 > I continuously expand my knowledge through academic research, open-source projects, scientific literature, and hands-on implementation in Statistics, Geo-Spatial Analytics, Remote Sensing, Machine Learning, and Artificial Intelligence.
