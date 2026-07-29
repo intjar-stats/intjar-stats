@@ -87,36 +87,41 @@ I enjoy applying statistical methods and geospatial technologies to understand e
 
 ---
 
-## 💼 Research Experience
+# 💼 Research Experience
 
-### 🏛 Research Intern — IIT Indore
+## 🏛 Research Intern — Indian Institute of Technology (IIT) Indore
 **May 2026 – Present (Remote)**
 
-Supervisor: **Dr. Ashootosh Mandpe**  
-Department of Civil Engineering
+**Supervisor:** Dr. Ashootosh Mandpe  
+**Department of Civil Engineering**
 
-Research Areas:
+Working on research related to **GIS, Remote Sensing, and Geospatial Data Analytics** for environmental applications. My work focuses on integrating **Machine Learning** with spatial data to support **land use/land cover analysis, illegal dumping site detection, landfill site suitability assessment, and geospatial decision-making**. The internship also involves extensive **scientific literature review, spatial data processing, and the development of reproducible geospatial workflows** using modern analytical tools.
 
-- GIS & Remote Sensing
-- Machine Learning Based Spatial Modelling
-- Land Use / Land Cover Analysis
-- Illegal Dumping Site Detection
-- Landfill Site Suitability Assessment
-- Geospatial Literature Review
-
-Tools:
-
-`Google Earth Engine` `QGIS` `R` `Spatial Analysis`
+**Tools & Technologies:** Google Earth Engine (GEE), QGIS, R, Python, Spatial Analysis, Machine Learning
 
 ---
 
-### 📚 Research Intern — IDEAS Foundation, ISI Kolkata
+## 🏛 Research Intern — IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata
 **2026**
 
-Worked on academic and research-oriented activities related to population and development studies.
+**Mentor:** Sandip Bhattacharya
+
+### AI-Powered Career Guidance System
+
+Worked on the design and development of an **AI-powered personalized career guidance system** that recommends suitable career pathways based on a student's **academic background, skills, interests, and learning profile**. The project integrates **Machine Learning, Generative AI, and interactive data visualization** to provide intelligent decision support for career planning.
+
+**Key Features**
+
+- 🎓 Top-3 Personalized Career Recommendations
+- 📉 Skill Gap Analysis
+- 🛣 Personalized Learning Roadmap Generation
+- 🤖 Generative AI-based Career Guidance
+- 📊 Interactive Streamlit Dashboard
+- 🧠 Machine Learning Recommendation Engine
+
+**Technology Stack:** Python, Machine Learning, Generative AI, Streamlit, Data Analytics
 
 ---
-
 ## 🌿 Current Research
 
 ### NDVI Vegetation Analysis and Forecasting for Aligarh District
