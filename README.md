@@ -415,6 +415,7 @@ Certified in fundamental computer concepts, digital literacy, office productivit
 <p align="center">
 <i>Thank you for visiting my GitHub profile. I welcome collaborations in Statistics, Data Science, Geospatial Analytics, Remote Sensing, and Artificial Intelligence.</i>
 </p>
+
 ---
 
 <p align="center">
