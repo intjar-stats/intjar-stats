@@ -241,7 +241,6 @@ An undergraduate research project applying statistical methods and interactive d
 
 > *Peer-reviewed publications, technical reports, manuscripts, and scholarly contributions.*
 
----
 
 Research publications will be added as manuscripts, conference papers, and journal articles become available.
 
