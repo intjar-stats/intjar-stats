@@ -102,9 +102,6 @@ Working on research related to **GIS, Remote Sensing, and Geospatial Data Analyt
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![](https://img.shields.io/badge/Spatial%20Analysis-00695C?style=for-the-badge)
-**Research Domains**
-
-`GIS` `Remote Sensing` `Spatial Statistics` `Machine Learning` `Geo-Spatial Analytics`
 
 ---
 
@@ -114,37 +111,34 @@ Working on research related to **GIS, Remote Sensing, and Geospatial Data Analyt
 
 **Mentor:** Sandip Bhattacharya
 
-**Research Focus:** AI-driven Recommendation Systems for Personalized Career Guidance.
+**Research Focus:** Artificial Intelligence, Machine Learning, Recommendation Systems, and Educational Data Analytics.
 
 ### Project: AI-Powered Career Guidance System
 
-Contributing to the design and development of an **AI-powered personalized career guidance system** that recommends suitable career pathways based on a student's **academic background, skills, interests, and learning profile**. The project integrates **Machine Learning, Generative AI, and interactive data visualization** to provide intelligent decision support for career planning through a user-friendly web application.
+Contributing to the development of an **AI-powered web-based career guidance system** that delivers **personalized and explainable career recommendations** based on a student's **academic background, technical and soft skills, and career interests**. The system integrates **supervised machine learning, generative AI, and interactive analytics** to support evidence-based career planning.
 
-The developed system provides:
+The recommendation engine is built using a **multi-label XGBoost classifier**, trained on a dataset of over **2,000 student profiles** and evaluated against **K-Nearest Neighbors (KNN), Decision Tree, and Random Forest** models. It predicts the **top three career pathways** with confidence scores and performs a **personalized skill gap analysis** by comparing a student's existing competencies with career-specific requirements. Based on this analysis, the system generates **structured learning roadmaps** to guide skill development.
 
-- Top-3 Personalized Career Recommendations
-- Skill Gap Analysis
-- Personalized Learning Roadmaps
-- Generative AI-based Career Guidance
-- Interactive Streamlit Dashboard
-- Machine Learning Recommendation Engine
+A **Generative AI module**, integrated through the **OpenRouter API**, provides explainable career recommendations, answers follow-up queries through an interactive assistant, and supports **AI-powered resume analysis** by comparing uploaded resumes with the student's most suitable career path. The application is deployed using **Streamlit Community Cloud**, with the source code, trained models, and datasets managed through **GitHub**. A complementary **Power BI dashboard** was also developed to visualize career distributions, skill gaps, and student readiness, enabling data-driven insights for career planning.
 
 ### Research Domains
 
 ![](https://img.shields.io/badge/Machine%20Learning-F57C00?style=flat-square)
 ![](https://img.shields.io/badge/Generative%20AI-8E24AA?style=flat-square)
+![](https://img.shields.io/badge/XGBoost-00599C?style=flat-square)
 ![](https://img.shields.io/badge/Recommendation%20Systems-3949AB?style=flat-square)
-![](https://img.shields.io/badge/Data%20Analytics-00897B?style=flat-square)
-![](https://img.shields.io/badge/Career%20Informatics-5E35B1?style=flat-square)
+![](https://img.shields.io/badge/Educational%20Data%20Mining-2E7D32?style=flat-square)
+![](https://img.shields.io/badge/Data%20Visualization-00897B?style=flat-square)
 
 ### Tools & Technologies
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge)
+![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![](https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge)
-![](https://img.shields.io/badge/Data%20Analytics-00897B?style=for-the-badge)
-![](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![](https://img.shields.io/badge/OpenRouter%20API-7B1FA2?style=for-the-badge)
+![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 ---
