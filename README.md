@@ -96,7 +96,7 @@ Graduated with First Rank in Statistics, building a strong foundation in statist
 
 ---
 
-# 🔬 Research Experience
+# 🔬 Research Experience💼
 
 
 ## 🏛 Indian Institute of Technology (IIT) Indore
@@ -132,90 +132,6 @@ Contributed to the development of an AI-powered career guidance platform integra
 - Built AI-assisted skill-gap analysis and learning roadmap
 - Integrated Generative AI using OpenRouter API
 - Deployed the application using Streamlit
-
----
-
-# 💼 Research Experience
-
-## 🏛 Research Intern — Indian Institute of Technology (IIT) Indore
-
-**May 2026 – Present (Remote)**
-
-**Supervisor:** Dr. Ashootosh Mandpe  
-**Department of Civil Engineering, IIT Indore**
-
-**Research Focus:** Environmental Geospatial Intelligence using GIS, Remote Sensing, and Machine Learning.
-
-Working on research related to **GIS, Remote Sensing, and Geospatial Data Analytics** for environmental applications. My work focuses on integrating **Machine Learning** with spatial data to support **land use/land cover analysis, illegal dumping site detection, landfill site suitability assessment, and geospatial decision-making**. The internship also involves **spatial data processing, scientific literature review, geospatial modelling, and the development of reproducible research workflows** for environmental monitoring and sustainable decision support.
-
-### Research Domains
-
-![](https://img.shields.io/badge/GIS-2E7D32?style=flat-square)
-![](https://img.shields.io/badge/Remote%20Sensing-1565C0?style=flat-square)
-![](https://img.shields.io/badge/GeoSpatial%20Analytics-00897B?style=flat-square)
-![](https://img.shields.io/badge/Spatial%20Modelling-6A1B9A?style=flat-square)
-![](https://img.shields.io/badge/Machine%20Learning-F57C00?style=flat-square)
-![](https://img.shields.io/badge/Environmental%20Data%20Science-43A047?style=flat-square)
-
-### Tools & Technologies
-
-![](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
-![](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![](https://img.shields.io/badge/Spatial%20Analysis-00695C?style=for-the-badge)
-
----
-
-## 🏛 Research Intern — IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata
-
-**May 2026 – Present (Hybrid)**
-
-**Mentor:** Mr. Sandip Bhattacharya
-
-**Research Focus:** Artificial Intelligence, Machine Learning, Recommendation Systems, and Educational Data Analytics.
-
-### Project: AI-Powered Career Guidance System
-
-Contributing to the development of an **AI-powered web-based career guidance system** that delivers **personalized and explainable career recommendations** based on a student's **academic background, technical and soft skills, and career interests**. The system integrates **supervised machine learning, generative AI, and interactive analytics** to support evidence-based career planning.
-
-The recommendation engine is built using a **multi-label XGBoost classifier**, trained on a dataset of over **2,000 student profiles** and evaluated against **K-Nearest Neighbors (KNN), Decision Tree, and Random Forest** models. It predicts the **top three career pathways** with confidence scores and performs a **personalized skill gap analysis** by comparing a student's existing competencies with career-specific requirements. Based on this analysis, the system generates **structured learning roadmaps** to guide skill development.
-
-A **Generative AI module**, integrated through the **OpenRouter API**, provides explainable career recommendations, answers follow-up queries through an interactive assistant, and supports **AI-powered resume analysis** by comparing uploaded resumes with the student's most suitable career path. The application is deployed using **Streamlit Community Cloud**, with the source code, trained models, and datasets managed through **GitHub**. A complementary **Power BI dashboard** was also developed to visualize career distributions, skill gaps, and student readiness, enabling data-driven insights for career planning.
-
-### Research Domains
-
-![](https://img.shields.io/badge/Machine%20Learning-F57C00?style=flat-square)
-![](https://img.shields.io/badge/Generative%20AI-8E24AA?style=flat-square)
-![](https://img.shields.io/badge/XGBoost-00599C?style=flat-square)
-![](https://img.shields.io/badge/Recommendation%20Systems-3949AB?style=flat-square)
-![](https://img.shields.io/badge/Educational%20Data%20Mining-2E7D32?style=flat-square)
-![](https://img.shields.io/badge/Data%20Visualization-00897B?style=flat-square)
-
-### Tools & Technologies
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge)
-![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![](https://img.shields.io/badge/OpenRouter%20API-7B1FA2?style=for-the-badge)
-![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🚀 Project Links
-
-<p align="left">
-
-<a href="https://github.com/intjar-stats/AI-Powered-Career-Guidance-System">
-<img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://ai-powered-career-guidance-system-blexmnd3bgujxy7b2u4uyl.streamlit.app/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 # 🧪 Research Projects
