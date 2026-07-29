@@ -109,16 +109,12 @@ Graduated with First Rank in Statistics, building a strong foundation in statist
 
 Conducting interdisciplinary research on environmental applications of **GIS**, **Remote Sensing**, and **Machine Learning** for sustainable spatial planning and environmental monitoring.
 
-**Selected Contributions**
+### Selected Contributions
 
-• Developed geospatial workflows for environmental analysis
-
-• Performed land-use and land-cover (LULC) analysis using satellite imagery
-
-• Assessed landfill suitability and illegal dumping locations
-
-• Applied machine learning for spatial prediction and environmental intelligence
-
+- Developed geospatial workflows for environmental analysis.
+- Performed land-use and land-cover (LULC) analysis using satellite imagery.
+- Assessed landfill suitability and illegal dumping locations.
+- Applied machine learning for spatial prediction and environmental intelligence.
 ---
 
 ## 🏛 IDEAS Foundation
