@@ -401,7 +401,67 @@ Open-source web application integrating **Machine Learning**, **Generative AI**,
 
 ---
 
+# 🔬 Current Research Focus
 
+> *Research areas that I am actively exploring through academic study, research internships, and open-source projects.*
+
+---
+
+### 🌿 Bayesian Ecological Modelling
+
+Developing statistical models to understand vegetation dynamics and ecological processes by integrating Bayesian methods with geospatial and environmental data.
+
+---
+
+### 🛰 Remote Sensing & Geo-Spatial Analytics
+
+Applying satellite remote sensing, GIS, and cloud-based geospatial platforms for vegetation monitoring, land-use analysis, and environmental assessment.
+
+---
+
+### 📈 Time Series Analysis & Forecasting
+
+Building statistical forecasting models to analyze temporal environmental data, with emphasis on trend analysis, seasonality, and predictive modelling.
+
+---
+
+### 🤖 Artificial Intelligence & Explainable Machine Learning
+
+Designing intelligent decision-support systems using Machine Learning, Explainable AI, recommendation systems, and Generative AI for real-world applications.
+
+---
+
+### 🌍 Open Science & Reproducible Research
+
+Developing transparent, reproducible, and open-source research workflows using modern statistical computing, geospatial technologies, and collaborative software development.
+
+---
+
+# 🔬 Research Interests
+
+<p align="center">
+
+![](https://img.shields.io/badge/Bayesian%20Statistics-1565C0?style=for-the-badge)
+![](https://img.shields.io/badge/Bayesian%20Ecological%20Modelling-00897B?style=for-the-badge)
+![](https://img.shields.io/badge/Spatial%20Statistics-6A1B9A?style=for-the-badge)
+![](https://img.shields.io/badge/Geo-Spatial%20Analytics-2E7D32?style=for-the-badge)
+![](https://img.shields.io/badge/Remote%20Sensing-00897B?style=for-the-badge)
+
+</p>
+
+<p align="center">
+
+![](https://img.shields.io/badge/Time%20Series%20Analysis-1976D2?style=for-the-badge)
+![](https://img.shields.io/badge/Machine%20Learning-F57C00?style=for-the-badge)
+![](https://img.shields.io/badge/Environmental%20Statistics-43A047?style=for-the-badge)
+![](https://img.shields.io/badge/Data%20Science-3949AB?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20Science-1E88E5?style=for-the-badge)
+
+</p>
+
+> *I am interested in developing statistically rigorous, computationally efficient, and reproducible methods for solving real-world environmental and societal challenges through Statistics, Artificial Intelligence, and Geo-Spatial Analytics.*
+
+---
 
 
 
