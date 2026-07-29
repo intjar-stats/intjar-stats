@@ -101,23 +101,25 @@ Graduated with First Rank in Statistics, building a strong foundation in statist
 
 ## 🏛 Indian Institute of Technology (IIT) Indore
 
-**Research Intern**  
-**Department of Civil Engineering, IIT Indore**  
-**Supervisor:** Dr. Ashootosh Mandpe 
+**Research Intern**
+**Department of Civil Engineering, IIT Indore**
 
 **May 2026 – Present (Remote)**
 
+**Supervisor:** Dr. Ashootosh Mandpe
 Conducting interdisciplinary research on environmental applications of **GIS**, **Remote Sensing**, and **Machine Learning** for sustainable spatial planning and environmental monitoring.
 
-**Highlights**
-- GIS and remote sensing for environmental analysis
-- Land-use/land-cover and spatial data processing
-- Landfill suitability assessment and illegal dumping detection
-- Machine learning applications in geospatial analytics
+**Selected Contributions**
+
+• Developed geospatial workflows for environmental analysis.
+• Performed land-use and land-cover (LULC) analysis using satellite imagery.
+• Assessed landfill suitability and illegal dumping locations.
+• Applied machine learning for spatial prediction and environmental intelligence.
 
 ---
 
-## 🏛 IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata
+## 🏛 IDEAS Foundation
+## Indian Statistical Institute (ISI), Kolkata
 
 **Research Intern**  
 **Mentor:** Sandip Bhattacharya
