@@ -69,7 +69,7 @@ Currently pursuing postgraduate studies with research interests in **Bayesian St
 
 ---
 
-## Patna University
+## Patna University (PU)
 **Patna College, Patna**  
 **Bachelor of Arts (Honours) in Statistics** *(2022 – 2025)*
 
