@@ -191,6 +191,11 @@ Developed a geospatial framework for monitoring and forecasting vegetation dynam
 
 ## 🤖 AI-Powered Career Guidance System
 
+![](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![](https://img.shields.io/badge/Type-Research%20Internship-1565C0?style=flat-square)
+![](https://img.shields.io/badge/Institution-ISI%20Kolkata-880E4F?style=flat-square)
+![](https://img.shields.io/badge/Year-2026-lightgrey?style=flat-square)
+
 **Research Internship | IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata**
 
 Designed and developed an AI-powered web application that provides personalized and explainable career recommendations using **Machine Learning**, **Generative AI**, and **Educational Data Analytics**. The system predicts the most suitable career pathways, identifies personalized skill gaps, generates structured learning roadmaps, and performs AI-assisted resume evaluation through an interactive Streamlit application.
@@ -230,6 +235,11 @@ Designed and developed an AI-powered web application that provides personalized 
 
 ## 🌍 GIS-Based Environmental Analytics
 
+![](https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square)
+![](https://img.shields.io/badge/Type-Research%20Internship-1565C0?style=flat-square)
+![](https://img.shields.io/badge/Institution-IIT%20Indore-C62828?style=flat-square)
+![](https://img.shields.io/badge/Year-2026-lightgrey?style=flat-square)
+
 **Research Internship | IIT Indore**
 
 Working on geospatial analytics for environmental applications using **GIS**, **Remote Sensing**, and **Machine Learning**. The project focuses on land use/land cover mapping, illegal dumping site detection, landfill suitability assessment, and spatial decision support for sustainable environmental management.
@@ -254,6 +264,11 @@ Working on geospatial analytics for environmental applications using **GIS**, **
 ---
 
 ## 📊 Statistical Analysis of Virat Kohli's Centuries
+
+![](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![](https://img.shields.io/badge/Type-Bachelor's%20Research-6A1B9A?style=flat-square)
+![](https://img.shields.io/badge/Institution-Patna%20University-0D47A1?style=flat-square)
+![](https://img.shields.io/badge/Year-2025-lightgrey?style=flat-square)
 
 **Bachelor's Research Project | Patna University**
 
