@@ -119,7 +119,7 @@ Worked on the design and development of an **AI-powered personalized career guid
 - 📊 Interactive Streamlit Dashboard
 - 🧠 Machine Learning Recommendation Engine
 
-**Technology Stack:** Python, Machine Learning, Generative AI, Streamlit, Data Analytics
+**Technology Stack:** Python, Jupyter Notebook, Machine Learning, Generative AI, Streamlit, Data Analytics
 
 ---
 ## 🌿 Current Research
