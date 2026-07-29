@@ -41,8 +41,6 @@ Aligarh Muslim University, Aligarh, Uttar Pradesh, India
 
 ---
 
----
-
 # 🎓 Education
 
 ## Aligarh Muslim University (AMU)
@@ -63,7 +61,6 @@ Currently pursuing postgraduate studies with a focus on **Bayesian Statistics, S
 
 Graduated with first position in the university and was awarded the **University Gold Medal** for outstanding academic performance. Built a strong foundation in **Probability Theory, Statistical Inference, Regression Analysis, Sampling Theory, Demography, Statistical Computing, and Mathematics**.
 
----
 ---
 
 ## 👨‍🔬 About Me
