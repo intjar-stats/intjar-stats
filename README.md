@@ -142,17 +142,24 @@ Contributed to the development of an AI-powered career guidance platform integra
 
 A research project focused on analysing and forecasting long-term vegetation dynamics using satellite-derived NDVI data and statistical time-series modelling.
 
-**Research Contributions**
+### Research Contributions
 - Processed MODIS NDVI data (2001–2025) using Google Earth Engine.
 - Conducted trend, seasonal, and time-series analysis in R.
-- Developed ARIMA and SARIMA models for NDVI forecasting.
+- Developed ARIMA and SARIMA forecasting models.
 - Validated forecasting performance using observed NDVI data.
 
 **Repository**  
 🔗 https://github.com/intjar-stats/ndvi-vegetation-dynamics-aligarh
 
-**Technologies**  
-Google Earth Engine • R • QGIS • MODIS • Time Series Analysis
+### Methods & Tools
+
+![Bayesian Statistics](https://img.shields.io/badge/Bayesian%20Statistics-F5F5F5?style=flat)
+![Time Series](https://img.shields.io/badge/Time%20Series-F5F5F5?style=flat)
+![NDVI](https://img.shields.io/badge/NDVI-F5F5F5?style=flat)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-F5F5F5?style=flat)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-F5F5F5?style=flat)
+![QGIS](https://img.shields.io/badge/QGIS-F5F5F5?style=flat)
+![R](https://img.shields.io/badge/R-F5F5F5?style=flat)
 
 ---
 
@@ -160,10 +167,10 @@ Google Earth Engine • R • QGIS • MODIS • Time Series Analysis
 
 An intelligent career recommendation platform integrating Machine Learning, Explainable AI, and Generative AI to deliver personalized career guidance and skill-gap analysis.
 
-**Research Contributions**
+### Research Contributions
 - Developed a multi-label XGBoost recommendation model.
 - Implemented Explainable AI for transparent career recommendations.
-- Integrated Generative AI to generate learning roadmaps.
+- Integrated Generative AI to generate personalized learning roadmaps.
 - Deployed an interactive web application using Streamlit.
 
 **Repository**  
@@ -172,8 +179,16 @@ An intelligent career recommendation platform integrating Machine Learning, Expl
 **Live Demo**  
 🌐 https://ai-powered-career-guidance-system-blexmnd3bgujxy7b2u4uyl.streamlit.app/
 
-**Technologies**  
-Python • XGBoost • Streamlit • Power BI • OpenRouter API
+### Methods & Tools
+
+![Python](https://img.shields.io/badge/Python-F5F5F5?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F5F5F5?style=flat)
+![XGBoost](https://img.shields.io/badge/XGBoost-F5F5F5?style=flat)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-F5F5F5?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-F5F5F5?style=flat)
+![OpenRouter API](https://img.shields.io/badge/OpenRouter%20API-F5F5F5?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-F5F5F5?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F5F5F5?style=flat)
 
 ---
 
@@ -181,7 +196,7 @@ Python • XGBoost • Streamlit • Power BI • OpenRouter API
 
 An ongoing research project at **IIT Indore** exploring the integration of GIS, Remote Sensing, and Machine Learning for environmental monitoring and sustainable spatial planning.
 
-**Research Contributions**
+### Research Contributions
 - Conducting environmental spatial analysis using geospatial datasets.
 - Analysing land-use and land-cover (LULC) dynamics.
 - Investigating landfill suitability assessment.
@@ -190,20 +205,35 @@ An ongoing research project at **IIT Indore** exploring the integration of GIS, 
 **Status**  
 🚧 Ongoing
 
+### Methods & Tools
+
+![GIS](https://img.shields.io/badge/GIS-F5F5F5?style=flat)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-F5F5F5?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F5F5F5?style=flat)
+![Spatial Analysis](https://img.shields.io/badge/Spatial%20Analysis-F5F5F5?style=flat)
+![Environmental Analytics](https://img.shields.io/badge/Environmental%20Analytics-F5F5F5?style=flat)
+![QGIS](https://img.shields.io/badge/QGIS-F5F5F5?style=flat)
+![Python](https://img.shields.io/badge/Python-F5F5F5?style=flat)
+
 ---
 
 ## Statistical Analysis of Virat Kohli's Centuries
 
 An undergraduate research project applying statistical methods and interactive data visualization to analyse batting performance across different match conditions.
 
-**Research Contributions**
+### Research Contributions
 - Performed exploratory statistical analysis of batting performance.
 - Evaluated performance trends across match formats.
 - Developed an interactive Power BI dashboard.
 - Presented statistical insights through effective visualizations.
 
-**Technologies**  
-Power BI • DAX • Microsoft Excel • Statistics
+### Methods & Tools
+
+![Statistics](https://img.shields.io/badge/Statistics-F5F5F5?style=flat)
+![Sports Analytics](https://img.shields.io/badge/Sports%20Analytics-F5F5F5?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F5F5F5?style=flat)
+![DAX](https://img.shields.io/badge/DAX-F5F5F5?style=flat)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-F5F5F5?style=flat)
 
 ---
 
