@@ -263,7 +263,22 @@ Research publications will be added as manuscripts, conference papers, and journ
 ![](https://img.shields.io/badge/Open%20Source-Contributor-2E7D32?style=flat-square)
 
 ---
+# 🎯 Research Interests
 
+> *My research interests lie at the intersection of **Statistics**, **Geo-Spatial Analytics**, and **Artificial Intelligence**. I am particularly interested in Bayesian modelling, spatial statistics, remote sensing, and time-series analysis for studying environmental processes and supporting evidence-based decision-making.*
+
+My broader research goal is to develop statistically rigorous, computationally efficient, and reproducible methods that bridge statistical theory with real-world applications in environmental data science, geospatial intelligence, and machine learning.
+
+**Research Areas**
+- Bayesian Statistics
+- Spatial Statistics
+- Geo-Spatial Analytics
+- Remote Sensing
+- Environmental Data Science
+- Time Series Analysis & Forecasting
+- Machine Learning
+- Explainable Artificial Intelligence (XAI)
+- Statistical Computing
 # 🔬 Current Research Focus
 
 > *Research areas that I am actively exploring through academic study, research internships, and open-source projects.*
