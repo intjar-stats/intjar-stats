@@ -265,7 +265,7 @@ Research publications will be added as manuscripts, conference papers, and journ
 ---
 # 🔹 Research Philosophy
 
-I believe that rigorous statistical thinking, reproducible computational methods, and interdisciplinary collaboration are essential for addressing complex environmental and societal challenges. My research aims to bridge theory and practice by developing transparent, data-driven methodologies that contribute to both scientific understanding and real-world decision-making.
+> *I believe that rigorous statistical thinking, reproducible computational methods, and interdisciplinary collaboration are essential for addressing complex environmental and societal challenges. My research aims to bridge theory and practice by developing transparent, data-driven methodologies that contribute to both scientific understanding and real-world decision-making.* 
 ---
 # 🎯 Research Interests
 
