@@ -653,32 +653,7 @@ Completed the **Course on Computer Concepts (CCC)** conducted by **NIELIT**, cov
 > I continuously expand my knowledge through academic research, open-source projects, scientific literature, and hands-on implementation in Statistics, Geo-Spatial Analytics, Remote Sensing, Machine Learning, and Artificial Intelligence.
 
 ---
-# 📈 GitHub Analytics
 
-> *A snapshot of my open-source contributions, research repositories, and development activity.*
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intjar-stats&theme=github"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intjar-stats&theme=github"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intjar-stats&theme=github"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=intjar-stats&theme=github"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=intjar-stats&theme=github&utcOffset=5.5"/>
-</p>
-
----
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=intjar-stats&theme=flat&no-frame=true&margin-w=15&row=1"/>
-
-</p>
-
----
 # 📈 GitHub Analytics
 
 > *A snapshot of my open-source contributions, research repositories, and development activity.*
