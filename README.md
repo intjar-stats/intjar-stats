@@ -127,7 +127,7 @@ Conducting interdisciplinary research on environmental applications of **GIS**, 
 
 Contributed to the development of an AI-powered career guidance platform integrating **Machine Learning**, **Generative AI**, and **Explainable AI** for personalized career recommendations.
 
-**Highlights**
+### Selected Contributions
 - Developed an XGBoost-based recommendation system
 - Built AI-assisted skill-gap analysis and learning roadmap
 - Integrated Generative AI using OpenRouter API
