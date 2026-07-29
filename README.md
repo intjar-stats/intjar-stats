@@ -102,6 +102,9 @@ Working on research related to **GIS, Remote Sensing, and Geospatial Data Analyt
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![](https://img.shields.io/badge/Spatial%20Analysis-00695C?style=for-the-badge)
+**Research Domains**
+
+`GIS` `Remote Sensing` `Spatial Statistics` `Machine Learning` `Geo-Spatial Analytics`
 
 ---
 
