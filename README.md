@@ -463,38 +463,104 @@ Developing transparent, reproducible, and open-source research workflows using m
 
 ---
 
+# 🛠️ Research & Technical Skills
 
+> *Computational, statistical, and geospatial tools that I use for research, data analysis, and scientific computing.*
 
+---
 
-## 🛠 Technical Skills
+## 📊 Statistical Computing
 
-### Programming
+<p>
 
-- R
-- Python
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPSS-D70A53?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-### GIS & Remote Sensing
+</p>
 
-- Google Earth Engine
-- QGIS
-- MODIS Data Processing
-- Remote Sensing
+---
 
-### Data Analytics
+## 📈 Statistics & Data Science
 
-- Power BI
-- SPSS
-- Microsoft Excel
+<p>
 
-### Statistics
+<img src="https://img.shields.io/badge/Bayesian%20Statistics-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistical%20Inference-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time%20Series-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-00897B?style=for-the-badge"/>
 
-- Bayesian Inference
-- Survival Analysis
-- Regression Analysis
-- Time Series Analysis
-- Statistical Quality Control
-- Machine Learning
+</p>
 
+---
+
+## 🛰️ Geo-Spatial Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Remote%20Sensing-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GIS-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODIS-43A047?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenRouter%20API-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-6A1B9A?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 Data Visualization
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 💻 Development & Version Control
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
+---
+
+## 📄 Scientific Writing
+
+<p>
+
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+
+</p>
+
+---
 ---
 
 ## 📂 Featured Projects
