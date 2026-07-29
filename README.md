@@ -253,14 +253,10 @@ Research publications will be added as manuscripts, conference papers, and journ
 *This section will be updated as future research outputs become publicly available.*
 
 ---
+
 # 🌍 Open Science
 
-I am committed to conducting **transparent, reproducible, and collaborative research**. I believe that openly sharing research code, documentation, and computational workflows accelerates scientific discovery and enables reproducible research.
-
-My goal is to develop open-source research resources that contribute to the fields of **Statistics**, **Geo-Spatial Analytics**, **Remote Sensing**, and **Artificial Intelligence**, while supporting evidence-based decision-making for environmental and societal challenges.
-# 🌍 Open Science
-
-> I believe that scientific research should be **transparent, reproducible, and openly accessible**. My work emphasizes reproducible workflows, open-source software, publicly available datasets whenever permitted, and collaborative research practices to advance statistics, geospatial analytics, remote sensing, and artificial intelligence.
+> I believe that scientific research should be **transparent, reproducible, and openly accessible**. My goal is to develop open-source research resources that contribute to the fields of **Statistics**, **Geo-Spatial Analytics**, **Remote Sensing**, and **Artificial Intelligence**, while supporting evidence-based decision-making for environmental and societal challenges.
 
 ![](https://img.shields.io/badge/Open%20Science-Advocate-1E88E5?style=flat-square)
 ![](https://img.shields.io/badge/Reproducible%20Research-Yes-success?style=flat-square)
