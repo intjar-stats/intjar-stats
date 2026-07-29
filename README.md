@@ -73,7 +73,17 @@ Aligarh Muslim University, Aligarh, Uttar Pradesh, India
 <!-- =========================================================== -->
 
 ---
+# 👨‍🔬 Research Profile
 
+I am **MD INTJAR**, a postgraduate student in **Statistics** at **Aligarh Muslim University**, with a strong interest in **Bayesian Statistics**, **Geo-Spatial Analytics**, **Remote Sensing**, **Time Series Analysis**, and **Artificial Intelligence**.
+
+My research focuses on developing statistically rigorous and reproducible methods for understanding environmental and societal systems through the integration of statistical modelling, geospatial technologies, and machine learning.
+
+I have worked on projects involving satellite-based vegetation monitoring, geospatial analytics, Bayesian modelling, and AI-driven decision support systems. Through research internships and open-source development, I aim to build practical tools that transform complex data into actionable scientific insights.
+
+I believe that impactful research should be **transparent**, **reproducible**, and **accessible**, and I actively contribute to open-source research software and collaborative scientific workflows.
+
+---
 # 🎓 Education
 
 ## Aligarh Muslim University (AMU)
