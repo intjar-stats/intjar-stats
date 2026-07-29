@@ -284,21 +284,21 @@ My broader research goal is to develop statistically rigorous, computationally e
 
 # 🛠 Research & Technical Skills
 
-### Statistical Programming
+### 📊 Statistical Programming
 
 <p>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
 
-### Geospatial & Remote Sensing
+### 🛰️ Geospatial Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearthengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white"/>
 </p>
 
-### Data Analysis & Visualization
+### 📈 Data Analytics & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
@@ -306,7 +306,7 @@ My broader research goal is to develop statistically rigorous, computationally e
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### Statistical & Machine Learning Methods
+### 🧠 Statistical & Machine Learning Methods
 
 <p>
   <img src="https://img.shields.io/badge/Bayesian%20Statistics-F5F5F5?style=flat"/>
@@ -317,16 +317,8 @@ My broader research goal is to develop statistically rigorous, computationally e
   <img src="https://img.shields.io/badge/Explainable%20AI-F5F5F5?style=flat"/>
 </p>
 
-### Research Practices
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20Science-F5F5F5?style=flat"/>
-  <img src="https://img.shields.io/badge/Reproducible%20Research-F5F5F5?style=flat"/>
-  <img src="https://img.shields.io/badge/Scientific%20Computing-F5F5F5?style=flat"/>
-</p>
-
-
 ---
+
 # 🏆 Awards, Honors & Recognition
 
 > *Selected academic achievements, scholarships, and recognitions received throughout my educational and research journey.*
