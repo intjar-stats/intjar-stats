@@ -153,8 +153,8 @@ A **Generative AI module**, integrated through the **OpenRouter API**, provides 
 </a>
 
 </p>
----
 
+---
 # 🧪 Research Projects
 ---
 
