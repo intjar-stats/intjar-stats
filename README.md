@@ -279,165 +279,51 @@ My broader research goal is to develop statistically rigorous, computationally e
 - Machine Learning
 - Explainable Artificial Intelligence (XAI)
 - Statistical Computing
-# 🔬 Current Research Focus
-
-> *Research areas that I am actively exploring through academic study, research internships, and open-source projects.*
 
 ---
 
-### 🌿 Bayesian Ecological Modelling
+# 🛠 Research & Technical Skills
 
-Developing statistical models to understand vegetation dynamics and ecological processes by integrating Bayesian methods with geospatial and environmental data.
-
----
-
-### 🛰 Remote Sensing & Geo-Spatial Analytics
-
-Applying satellite remote sensing, GIS, and cloud-based geospatial platforms for vegetation monitoring, land-use analysis, and environmental assessment.
-
----
-
-### 📈 Time Series Analysis & Forecasting
-
-Building statistical forecasting models to analyze temporal environmental data, with emphasis on trend analysis, seasonality, and predictive modelling.
-
----
-
-### 🤖 Artificial Intelligence & Explainable Machine Learning
-
-Designing intelligent decision-support systems using Machine Learning, Explainable AI, recommendation systems, and Generative AI for real-world applications.
-
----
-
-### 🌍 Open Science & Reproducible Research
-
-Developing transparent, reproducible, and open-source research workflows using modern statistical computing, geospatial technologies, and collaborative software development.
-
----
-
-# 🔬 Research Interests
-
-<p align="center">
-
-![](https://img.shields.io/badge/Bayesian%20Statistics-1565C0?style=for-the-badge)
-![](https://img.shields.io/badge/Bayesian%20Ecological%20Modelling-00897B?style=for-the-badge)
-![](https://img.shields.io/badge/Spatial%20Statistics-6A1B9A?style=for-the-badge)
-![](https://img.shields.io/badge/Geo-Spatial%20Analytics-2E7D32?style=for-the-badge)
-![](https://img.shields.io/badge/Remote%20Sensing-00897B?style=for-the-badge)
-
-</p>
-
-<p align="center">
-
-![](https://img.shields.io/badge/Time%20Series%20Analysis-1976D2?style=for-the-badge)
-![](https://img.shields.io/badge/Machine%20Learning-F57C00?style=for-the-badge)
-![](https://img.shields.io/badge/Environmental%20Statistics-43A047?style=for-the-badge)
-![](https://img.shields.io/badge/Data%20Science-3949AB?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Science-1E88E5?style=for-the-badge)
-
-</p>
-
-> *I am interested in developing statistically rigorous, computationally efficient, and reproducible methods for solving real-world environmental and societal challenges through Statistics, Artificial Intelligence, and Geo-Spatial Analytics.*
-
----
-
-# 🛠️ Research & Technical Skills
-
-> *Computational, statistical, and geospatial tools that I use for research, data analysis, and scientific computing.*
-
----
-
-## 📊 Statistical Computing
+### Statistical Programming
 
 <p>
-
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPSS-D70A53?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
 
----
-
-## 📈 Statistics & Data Science
+### Geospatial & Remote Sensing
 
 <p>
-
-<img src="https://img.shields.io/badge/Bayesian%20Statistics-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistical%20Inference-1976D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Time%20Series-3949AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F57C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-00897B?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white"/>
 </p>
 
----
-
-## 🛰️ Geo-Spatial Analytics
+### Data Analysis & Visualization
 
 <p>
-
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Remote%20Sensing-00897B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GIS-2E7D32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODIS-43A047?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SPSS-D71920?style=flat"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
 </p>
 
----
-
-## 🤖 Artificial Intelligence
+### Statistical & Machine Learning Methods
 
 <p>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenRouter%20API-8E24AA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Explainable%20AI-6A1B9A?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Bayesian%20Statistics-F5F5F5?style=flat"/>
+  <img src="https://img.shields.io/badge/Statistical%20Inference-F5F5F5?style=flat"/>
+  <img src="https://img.shields.io/badge/Time%20Series-F5F5F5?style=flat"/>
+  <img src="https://img.shields.io/badge/Spatial%20Statistics-F5F5F5?style=flat"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F5F5F5?style=flat"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI-F5F5F5?style=flat"/>
 </p>
 
----
-
-## 📊 Data Visualization
+### Research Practices
 
 <p>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Open%20Science-F5F5F5?style=flat"/>
+  <img src="https://img.shields.io/badge/Reproducible%20Research-F5F5F5?style=flat"/>
+  <img src="https://img.shields.io/badge/Scientific%20Computing-F5F5F5?style=flat"/>
 </p>
-
----
-
-## 💻 Development & Version Control
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</p>
-
----
-
-## 📄 Scientific Writing
-
-<p>
-
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-
-</p>
-
 ---
 # 🏆 Awards, Honors & Recognition
 
