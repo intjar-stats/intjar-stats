@@ -44,28 +44,13 @@ Aligarh Muslim University, Aligarh, Uttar Pradesh, India
 # 🎓 Education
 
 ## Aligarh Muslim University (AMU)
+
 **Department of Statistics & Operations Research**  
 **Master of Science (M.Sc.) in Statistics** *(2025 – Present)*
 
-Currently pursuing postgraduate studies with research interests in **Bayesian Statistics, Ecological Modelling, Geo-Spatial Analytics, Remote Sensing, Time Series Analysis, Spatial Statistics, and Machine Learning**.
+Currently pursuing a **Master of Science in Statistics** with a strong academic foundation in **Advanced Statistical Inference, Bayesian Statistics, Advanced Probability Theory, Advanced Sampling Theory, Reliability & Survival Analysis, Stochastic Processes, Statistical Quality Control, Advanced Operations Research, Machine Learning, Statistical Computing with R and Python, Real Analysis & Linear Algebra, and Scientific Research & Academic Writing**. These studies have strengthened both my theoretical understanding and computational skills, supporting my research interests in **Bayesian Ecological Modelling, Geo-Spatial Analytics, Remote Sensing, Spatial Statistics, Time Series Analysis, and Data Science**.
 
-🏅 **Awarded the Postgraduate Merit Scholarship (2025–2027)** for outstanding academic performance during the M.Sc. (Statistics) programme.
-
-### Relevant Coursework
-
-- Advanced Statistical Inference
-- Bayesian Inference & Survival Analysis
-- Advanced Probability Theory
-- Advanced Sampling Theory
-- Reliability Theory & Survival Analysis
-- Stochastic Processes
-- Statistical Quality Control
-- Advanced Operations Research
-- Introduction to Machine Learning
-- Data Analysis with Python
-- Research Methodology with R
-- Real Analysis & Linear Algebra
-- Paper Writing & Research with LaTex and AI Tools
+🏅 **Awarded the Postgraduate Merit Scholarship (2025–2027)** in recognition of outstanding academic performance during the M.Sc. (Statistics) programme.
 
 ---
 
