@@ -658,19 +658,20 @@ Completed the **Course on Computer Concepts (CCC)** conducted by **NIELIT**, cov
 > *A snapshot of my open-source contributions, research repositories, and development activity.*
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=intjar-stats&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=intjar-stats&theme=transparent&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intjar-stats&theme=github"/>
 </p>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intjar-stats&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intjar-stats&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intjar-stats&theme=github"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=intjar-stats&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=intjar-stats&theme=github&utcOffset=5.5"/>
+</p>
+
+---
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=intjar-stats&theme=flat&no-frame=true&margin-w=15&row=1"/>
