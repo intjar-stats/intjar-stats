@@ -65,7 +65,7 @@ Currently pursuing postgraduate studies with research interests in **Bayesian St
 - Data Analysis with Python
 - Research Methodology with R
 - Real Analysis & Linear Algebra
-- Paper Writing & Research with AI Tools
+- Paper Writing & Research with LaTex and AI Tools
 
 ---
 
