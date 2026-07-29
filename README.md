@@ -64,7 +64,6 @@ As I continue my academic journey, I aim to pursue doctoral research and contrib
 ---
 # 🎓 Education
 
----
 
 ## Aligarh Muslim University, Aligarh, India
 
@@ -99,7 +98,6 @@ Graduated with First Rank in Statistics, building a strong foundation in statist
 
 # 🔬 Research Experience
 
----
 
 ## Indian Institute of Technology (IIT) Indore
 
