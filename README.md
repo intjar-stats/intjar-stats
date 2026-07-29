@@ -561,6 +561,49 @@ Developing transparent, reproducible, and open-source research workflows using m
 </p>
 
 ---
+# 🏆 Awards, Honors & Recognition
+
+> *Selected academic achievements, scholarships, and recognitions received throughout my educational and research journey.*
+
+---
+
+## 🥇 University Gold Medal
+
+![](https://img.shields.io/badge/Award-University%20Gold%20Medal-FFD700?style=flat-square)
+![](https://img.shields.io/badge/Institution-Patna%20University-1E88E5?style=flat-square)
+![](https://img.shields.io/badge/Year-2025-lightgrey?style=flat-square)
+
+Awarded the **University Gold Medal** for securing **First Rank** in the Bachelor of Arts (Honours) in Statistics examination at **Patna University**, recognizing outstanding academic performance and excellence in Statistics.
+
+---
+
+## 🎓 Postgraduate Merit Scholarship
+
+![](https://img.shields.io/badge/Scholarship-Merit%20Scholar-success?style=flat-square)
+![](https://img.shields.io/badge/Institution-Aligarh%20Muslim%20University-1565C0?style=flat-square)
+![](https://img.shields.io/badge/Academic%20Session-2025--26-lightgrey?style=flat-square)
+
+Recipient of the **Postgraduate Merit Scholarship** awarded by **Aligarh Muslim University** in recognition of academic excellence during the M.Sc. Statistics programme.
+
+---
+
+## 🏛️ Research Internship Selection
+
+![](https://img.shields.io/badge/Research-IIT%20Indore-D32F2F?style=flat-square)
+![](https://img.shields.io/badge/Research-ISI%20Kolkata-512DA8?style=flat-square)
+![](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+
+Selected for competitive research internships at **Indian Institute of Technology (IIT) Indore** and **IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata**, contributing to interdisciplinary research in geospatial analytics, machine learning, and artificial intelligence.
+
+---
+
+## 🌍 Open-Source Research
+
+![](https://img.shields.io/badge/Open%20Source-Research-success?style=flat-square)
+![](https://img.shields.io/badge/License-MIT-000000?style=flat-square)
+
+Committed to developing **open-source, reproducible research software** and sharing scientific workflows, code, and documentation under the **MIT License** to support open science and collaborative research.
+
 ---
 
 ## 📂 Featured Projects
