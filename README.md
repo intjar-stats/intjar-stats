@@ -14,20 +14,30 @@ Bayesian Statistics • Geo-Spatial Analytics • Remote Sensing • Time Series
 🥇 University Gold Medalist &nbsp;&nbsp;|&nbsp;&nbsp;
 🏛 Research Intern @ IIT Indore & ISI Kolkata
 </p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3500&pause=1200&color=1565C0&center=true&vCenter=true&width=950&lines=Bayesian+Ecological+Modelling+%26+Geo-Spatial+Analytics+Researcher;Remote+Sensing+%26+Spatial+Data+Analytics;NDVI+Monitoring+%26+Vegetation+Dynamics;Google+Earth+Engine+%7C+QGIS+%7C+R+%7C+Python;Bayesian+Statistics+%7C+Time+Series+Analysis;Open+Science+%26+Reproducible+Research"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
 
+<a href="https://www.linkedin.com/in/md-intjar-statistics">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:intjar.bstats@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://github.com/intjar-stats">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-INTJAR--STATS-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
+</p>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-</a>
+<!-- =========================================================== -->
 
 </p>
 
