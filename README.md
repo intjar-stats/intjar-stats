@@ -325,6 +325,7 @@ My broader research goal is to develop statistically rigorous, computationally e
   <img src="https://img.shields.io/badge/Scientific%20Computing-F5F5F5?style=flat"/>
 </p>
 ---
+
 # 🏆 Awards, Honors & Recognition
 
 > *Selected academic achievements, scholarships, and recognitions received throughout my educational and research journey.*
