@@ -11,7 +11,7 @@
 
 <p align="center">
 Department of Statistics & Operations Research <br>
-Aligarh Muslim University, Aligarh, Uttar Pradesh India
+Aligarh Muslim University, Aligarh, Uttar Pradesh, India
 </p>
 
 <p align="center">
