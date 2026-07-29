@@ -134,154 +134,79 @@ Contributed to the development of an AI-powered career guidance platform integra
 - Deployed the application using Streamlit
 
 ---
-# 🧪 Research Projects
-
-## 🌿 NDVI Vegetation Analysis and Forecasting for Aligarh District
-
-![](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![](https://img.shields.io/badge/Research-Time%20Series-1976D2?style=flat-square)
-![](https://img.shields.io/badge/Domain-Remote%20Sensing-00897B?style=flat-square)
-![](https://img.shields.io/badge/Year-2026-lightgrey?style=flat-square)
-
-**M.Sc. Dissertation | Aligarh Muslim University**
-
-Developed a geospatial framework for monitoring and forecasting vegetation dynamics in **Aligarh District, Uttar Pradesh**, using **MODIS NDVI satellite imagery**. The study integrates **Google Earth Engine (GEE)** for satellite data extraction, **QGIS** for spatial analysis, and **R** for statistical modelling and time-series forecasting. Annual and monthly NDVI trends were analysed to assess long-term vegetation dynamics and forecast future vegetation conditions using statistical time-series models.
-
-### Key Contributions
-
-- 🌍 Developed an end-to-end NDVI analysis workflow using Google Earth Engine.
-- 🛰 Processed MODIS satellite imagery (2001–2025) for vegetation monitoring.
-- 📈 Built ARIMA and SARIMA forecasting models for NDVI prediction.
-- 🌱 Performed trend, seasonality, and forecasting analyses in R.
-- 🗺 Produced geospatial visualizations using QGIS.
-- 📄 Developed a reproducible research workflow for environmental monitoring.
-
-### Technologies
-
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
-![](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![](https://img.shields.io/badge/MODIS-2E7D32?style=for-the-badge)
-![](https://img.shields.io/badge/ARIMA-1976D2?style=for-the-badge)
-![](https://img.shields.io/badge/SARIMA-6A1B9A?style=for-the-badge)
-![](https://img.shields.io/badge/Remote%20Sensing-00897B?style=for-the-badge)
-
-### Project Links
-
-<p>
-
-<a href="https://github.com/intjar-stats/ndvi-vegetation-dynamics-aligarh">
-<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+# 🌿 Research Projects
 
 ---
 
-## 🤖 AI-Powered Career Guidance System
+## NDVI Vegetation Dynamics & Forecasting for Aligarh District
 
-![](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![](https://img.shields.io/badge/Research-Machine%20Learning-F57C00?style=flat-square)
-![](https://img.shields.io/badge/Domain-Generative%20AI-8E24AA?style=flat-square)
-![](https://img.shields.io/badge/Year-2026-lightgrey?style=flat-square)
+A research project focused on analysing and forecasting long-term vegetation dynamics using satellite-derived NDVI data and statistical time-series modelling.
 
-**Research Internship | IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata**
+**Research Contributions**
+- Processed MODIS NDVI data (2001–2025) using Google Earth Engine.
+- Conducted trend, seasonal, and time-series analysis in R.
+- Developed ARIMA and SARIMA models for NDVI forecasting.
+- Validated forecasting performance using observed NDVI data.
 
-Designed and developed an AI-powered web application that delivers **personalized and explainable career recommendations** using **Machine Learning**, **Generative AI**, and **Educational Data Analytics**. The recommendation engine employs a multi-label **XGBoost classifier**, generating Top-3 career recommendations, personalized skill-gap analysis, structured learning roadmaps, AI-assisted resume evaluation, and interactive career guidance through the OpenRouter API.
+**Repository**  
+🔗 https://github.com/intjar-stats/ndvi-vegetation-dynamics-aligarh
 
-### Key Contributions
-
-- 🤖 Developed a multi-label XGBoost recommendation engine.
-- 🎯 Generated Top-3 personalized career recommendations.
-- 📉 Implemented personalized skill-gap analysis.
-- 🧠 Integrated Generative AI using OpenRouter API.
-- 📄 Developed AI-powered resume analysis.
-- 📊 Built an interactive Power BI dashboard.
-- 🌐 Deployed the application on Streamlit Community Cloud.
-
-### Technologies
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge)
-![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge)
-![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![](https://img.shields.io/badge/OpenRouter%20API-7B1FA2?style=for-the-badge)
-![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Project Links
-
-<p>
-
-<a href="https://github.com/intjar-stats/AI-Powered-Career-Guidance-System">
-<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://ai-powered-career-guidance-system-blexmnd3bgujxy7b2u4uyl.streamlit.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-
-</p>
+**Technologies**  
+Google Earth Engine • R • QGIS • MODIS • Time Series Analysis
 
 ---
 
-## 🌍 GIS-Based Environmental Analytics
+## AI-Powered Career Guidance System
 
-![](https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square)
-![](https://img.shields.io/badge/Research-Geospatial%20Analytics-2E7D32?style=flat-square)
-![](https://img.shields.io/badge/Domain-GIS%20%26%20Remote%20Sensing-1565C0?style=flat-square)
-![](https://img.shields.io/badge/Year-2026-lightgrey?style=flat-square)
+An intelligent career recommendation platform integrating Machine Learning, Explainable AI, and Generative AI to deliver personalized career guidance and skill-gap analysis.
 
-**Research Internship | Indian Institute of Technology (IIT) Indore**
+**Research Contributions**
+- Developed a multi-label XGBoost recommendation model.
+- Implemented Explainable AI for transparent career recommendations.
+- Integrated Generative AI to generate learning roadmaps.
+- Deployed an interactive web application using Streamlit.
 
-Working on geospatial analytics for environmental applications using **GIS**, **Remote Sensing**, and **Machine Learning**. The project focuses on land use/land cover mapping, illegal dumping site detection, landfill suitability assessment, and spatial decision support for sustainable environmental management.
+**Repository**  
+🔗 https://github.com/intjar-stats/AI-Powered-Career-Guidance-System
 
-### Key Contributions
+**Live Demo**  
+🌐 https://ai-powered-career-guidance-system-blexmnd3bgujxy7b2u4uyl.streamlit.app/
 
-- 🌍 GIS-based spatial data processing.
-- 🛰 Remote sensing data analysis.
-- ♻ Landfill suitability assessment.
-- 🚮 Illegal dumping site detection.
-- 🤖 Machine Learning for environmental analytics.
-- 📈 Geospatial decision support.
-
-### Technologies
-
-![](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
-![](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+**Technologies**  
+Python • XGBoost • Streamlit • Power BI • OpenRouter API
 
 ---
 
-## 📊 Statistical Analysis of Virat Kohli's Centuries
+## GIS-Based Environmental Analytics
 
-![](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![](https://img.shields.io/badge/Research-Sports%20Analytics-F9A825?style=flat-square)
-![](https://img.shields.io/badge/Domain-Statistical%20Analysis-1565C0?style=flat-square)
-![](https://img.shields.io/badge/Year-2025-lightgrey?style=flat-square)
+An ongoing research project at **IIT Indore** exploring the integration of GIS, Remote Sensing, and Machine Learning for environmental monitoring and sustainable spatial planning.
 
-**Bachelor's Research Project | Patna University**
+**Research Contributions**
+- Conducting environmental spatial analysis using geospatial datasets.
+- Analysing land-use and land-cover (LULC) dynamics.
+- Investigating landfill suitability assessment.
+- Applying machine learning for spatial prediction.
 
-Conducted a statistical analysis of Virat Kohli's international centuries using descriptive statistics, exploratory data analysis, and interactive Power BI dashboards. The study examined performance trends, match conditions, run-scoring patterns, and predictive insights through statistical visualization.
-
-### Key Contributions
-
-- 🏏 Statistical performance analysis.
-- 📈 Exploratory Data Analysis.
-- 📊 Interactive Power BI dashboard.
-- 📉 Performance trend visualization.
-- 📚 Sports analytics and predictive insights.
-
-### Technologies
-
-![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![](https://img.shields.io/badge/Statistics-1565C0?style=for-the-badge)
-
+**Status**  
+🚧 Ongoing
 
 ---
+
+## Statistical Analysis of Virat Kohli's Centuries
+
+An undergraduate research project applying statistical methods and interactive data visualization to analyse batting performance across different match conditions.
+
+**Research Contributions**
+- Performed exploratory statistical analysis of batting performance.
+- Evaluated performance trends across match formats.
+- Developed an interactive Power BI dashboard.
+- Presented statistical insights through effective visualizations.
+
+**Technologies**  
+Power BI • DAX • Microsoft Excel • Statistics
+
+---
+
 # 📚 Publications
 
 > *Peer-reviewed publications, technical reports, manuscripts, and scholarly contributions.*
