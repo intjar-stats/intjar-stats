@@ -679,6 +679,29 @@ Completed the **Course on Computer Concepts (CCC)** conducted by **NIELIT**, cov
 </p>
 
 ---
+# 📈 GitHub Analytics
+
+> *A snapshot of my open-source contributions, research repositories, and development activity.*
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intjar-stats&theme=github"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intjar-stats&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intjar-stats&theme=github"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=intjar-stats&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=intjar-stats&theme=github&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=intjar-stats&theme=github-compact&hide_border=true"/>
+</p>
+
+---
 # 🤝 Connect With Me
 
 <p align="center">
