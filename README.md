@@ -679,17 +679,19 @@ Completed the **Course on Computer Concepts (CCC)** conducted by **NIELIT**, cov
 ---
 # 🤝 Connect With Me
 
+> *I'm always open to research collaborations, academic discussions, open-source contributions, and data science opportunities.*
+
 <p align="center">
 
 <a href="https://github.com/intjar-stats">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -704,3 +706,4 @@ Completed the **Course on Computer Concepts (CCC)** conducted by **NIELIT**, cov
 </p>
 
 ---
+
