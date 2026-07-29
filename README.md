@@ -103,7 +103,6 @@ Graduated with First Rank in Statistics, building a strong foundation in statist
 
 **Research Intern**
 **Department of Civil Engineering, IIT Indore**
-
 **May 2026 – Present (Remote)**
 
 **Supervisor:** Dr. Ashootosh Mandpe
