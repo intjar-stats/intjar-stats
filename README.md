@@ -383,47 +383,37 @@ Certified in fundamental computer concepts, digital literacy, office productivit
 </p>
 
 ---
-# 📈 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=intjar-stats&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=intjar-stats&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=intjar-stats&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intjar-stats&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
----
 # 🤝 Connect With Me
-
-> *I'm always open to research collaborations, academic discussions, open-source contributions, and data science opportunities.*
 
 <p align="center">
 
 <a href="https://github.com/intjar-stats">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/md-intjar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://scholar.google.com/">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 
 <a href="https://orcid.org/">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 
 </p>
 
+---
+
+<p align="center">
+<i>Thank you for visiting my GitHub profile. I welcome collaborations in Statistics, Data Science, Geospatial Analytics, Remote Sensing, and Artificial Intelligence.</i>
+</p>
 ---
 
