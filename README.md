@@ -75,36 +75,74 @@ I enjoy applying statistical methods and geospatial technologies to understand e
 # 💼 Research Experience
 
 ## 🏛 Research Intern — Indian Institute of Technology (IIT) Indore
+
 **May 2026 – Present (Remote)**
 
 **Supervisor:** Dr. Ashootosh Mandpe  
 **Department of Civil Engineering, IIT Indore**
 
-Working on research related to **GIS, Remote Sensing, and Geospatial Data Analytics** for environmental applications. My work focuses on integrating **Machine Learning** with spatial data to support **land use/land cover analysis, illegal dumping site detection, landfill site suitability assessment, and geospatial decision-making**. The internship also involves extensive **scientific literature review, spatial data processing, and the development of reproducible geospatial workflows** using modern analytical tools.
+**Research Focus:** Environmental Geospatial Intelligence using GIS, Remote Sensing, and Machine Learning.
 
-**Tools & Technologies:** Google Earth Engine (GEE), QGIS, R, Python, Spatial Analysis, Machine Learning
+Working on research related to **GIS, Remote Sensing, and Geospatial Data Analytics** for environmental applications. My work focuses on integrating **Machine Learning** with spatial data to support **land use/land cover analysis, illegal dumping site detection, landfill site suitability assessment, and geospatial decision-making**. The internship also involves **spatial data processing, scientific literature review, geospatial modelling, and the development of reproducible research workflows** for environmental monitoring and sustainable decision support.
+
+### Research Domains
+
+![](https://img.shields.io/badge/GIS-2E7D32?style=flat-square)
+![](https://img.shields.io/badge/Remote%20Sensing-1565C0?style=flat-square)
+![](https://img.shields.io/badge/GeoSpatial%20Analytics-00897B?style=flat-square)
+![](https://img.shields.io/badge/Spatial%20Modelling-6A1B9A?style=flat-square)
+![](https://img.shields.io/badge/Machine%20Learning-F57C00?style=flat-square)
+![](https://img.shields.io/badge/Environmental%20Data%20Science-43A047?style=flat-square)
+
+### Tools & Technologies
+
+![](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![](https://img.shields.io/badge/Spatial%20Analysis-00695C?style=for-the-badge)
 
 ---
 
 ## 🏛 Research Intern — IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata
+
 **May 2026 – Present (Hybrid)**
 
 **Mentor:** Sandip Bhattacharya
 
-### AI-Powered Career Guidance System
+**Research Focus:** AI-driven Recommendation Systems for Personalized Career Guidance.
 
-Worked on the design and development of an **AI-powered personalized career guidance system** that recommends suitable career pathways based on a student's **academic background, skills, interests, and learning profile**. The project integrates **Machine Learning, Generative AI, and interactive data visualization** to provide intelligent decision support for career planning.
+### Project: AI-Powered Career Guidance System
 
-**Key Features**
+Contributing to the design and development of an **AI-powered personalized career guidance system** that recommends suitable career pathways based on a student's **academic background, skills, interests, and learning profile**. The project integrates **Machine Learning, Generative AI, and interactive data visualization** to provide intelligent decision support for career planning through a user-friendly web application.
 
-- 🎓 Top-3 Personalized Career Recommendations
-- 📉 Skill Gap Analysis
-- 🛣 Personalized Learning Roadmap Generation
-- 🤖 Generative AI-based Career Guidance
-- 📊 Interactive Streamlit Dashboard
-- 🧠 Machine Learning Recommendation Engine
+The developed system provides:
 
-**Technology Stack:** Python, Jupyter Notebook, Machine Learning, Generative AI, Streamlit, Data Analytics
+- Top-3 Personalized Career Recommendations
+- Skill Gap Analysis
+- Personalized Learning Roadmaps
+- Generative AI-based Career Guidance
+- Interactive Streamlit Dashboard
+- Machine Learning Recommendation Engine
+
+### Research Domains
+
+![](https://img.shields.io/badge/Machine%20Learning-F57C00?style=flat-square)
+![](https://img.shields.io/badge/Generative%20AI-8E24AA?style=flat-square)
+![](https://img.shields.io/badge/Recommendation%20Systems-3949AB?style=flat-square)
+![](https://img.shields.io/badge/Data%20Analytics-00897B?style=flat-square)
+![](https://img.shields.io/badge/Career%20Informatics-5E35B1?style=flat-square)
+
+### Tools & Technologies
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![](https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge)
+![](https://img.shields.io/badge/Data%20Analytics-00897B?style=for-the-badge)
+![](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+
 
 ---
 ## 🌿 Current Research
