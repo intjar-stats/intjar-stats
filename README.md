@@ -102,7 +102,7 @@ Working on research related to **GIS, Remote Sensing, and Geospatial Data Analyt
 ---
 
 ## 🏛 Research Intern — IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata
-**2026**
+**May 2026 – Present (Hybrid)**
 
 **Mentor:** Sandip Bhattacharya
 
