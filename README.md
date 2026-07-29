@@ -15,12 +15,6 @@ Aligarh Muslim University, Aligarh
 </p>
 
 <p align="center">
-  <strong>
-    Bayesian Ecological Modelling & Geo-Spatial Analytics
-  </strong>
-</p>
-
-<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3500&pause=1200&color=1565C0&center=true&vCenter=true&width=950&lines=Bayesian+Ecological+Modelling+%26+Geo-Spatial+Analytics+Researcher;Remote+Sensing+%26+Spatial+Data+Analytics;NDVI+Monitoring+%26+Vegetation+Dynamics;Google+Earth+Engine+%7C+QGIS+%7C+R+%7C+Python;Bayesian+Statistics+%7C+Time+Series+Analysis;Open+Science+%26+Reproducible+Research"
     alt="Typing SVG"
