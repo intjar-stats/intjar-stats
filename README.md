@@ -112,8 +112,11 @@ Conducting interdisciplinary research on environmental applications of **GIS**, 
 **Selected Contributions**
 
 • Developed geospatial workflows for environmental analysis
+
 • Performed land-use and land-cover (LULC) analysis using satellite imagery
+
 • Assessed landfill suitability and illegal dumping locations
+
 • Applied machine learning for spatial prediction and environmental intelligence
 
 ---
