@@ -64,24 +64,36 @@ As I continue my academic journey, I aim to pursue doctoral research and contrib
 ---
 # 🎓 Education
 
-## Aligarh Muslim University (AMU)
+---
 
-**Department of Statistics & Operations Research**  
-**Master of Science (M.Sc.) in Statistics** *(2025 – Present)*
+## Aligarh Muslim University, Aligarh, India
 
-Currently pursuing a **Master of Science in Statistics** with a strong academic foundation in **Advanced Statistical Inference, Bayesian Statistics, Advanced Probability Theory, Advanced Sampling Theory, Reliability & Survival Analysis, Stochastic Processes, Statistical Quality Control, Advanced Operations Research, Machine Learning, Statistical Computing with R and Python, Real Analysis & Linear Algebra, and Scientific Research & Academic Writing**. These studies have strengthened both my theoretical understanding and computational skills, supporting my research interests in **Bayesian Ecological Modelling, Geo-Spatial Analytics, Remote Sensing, Spatial Statistics, Time Series Analysis, and Data Science**.
+**Master of Science (M.Sc.) in Statistics**  
+**2025 – Present**
 
-🏅 **Awarded the Postgraduate Merit Scholarship (2025–2027)** in recognition of outstanding academic performance during the M.Sc. (Statistics) programme.
+Currently pursuing postgraduate studies in Statistics with a research focus on Bayesian Statistics, Geo-Spatial Analytics, Remote Sensing, Time Series Analysis, and Artificial Intelligence.
+
+**Highlights**
+- Recipient of the **Postgraduate Merit Scholarship (2025–26)**
+- Research in Bayesian Statistics and Environmental Data Science
+- M.Sc. Dissertation on **NDVI Vegetation Dynamics & Forecasting**
+- Research Intern at **IIT Indore** and **IDEAS Foundation, ISI Kolkata**
 
 ---
 
-## Patna University (PU)
-**Patna College, Patna**  
-**Bachelor of Arts (Honours) in Statistics** *(2022 – 2025)*
+## Patna University, Patna, India
 
-🥇 **University Gold Medalist**
+**Bachelor of Arts (Honours) in Statistics**  
+*Patna College*  
+**2022 – 2025**
 
-Graduated with first position in the university and was awarded the **University Gold Medal** for outstanding academic performance. Developed a strong foundation in **Probability Theory, Statistical Inference, Regression Analysis, Sampling Theory, Demography, Statistical Computing, Mathematics, and Data Analysis**.
+Graduated with First Rank in Statistics, building a strong foundation in statistical theory, probability, inference, and applied data analysis.
+
+**Highlights**
+- 🥇 University Gold Medalist
+- 🏆 First Rank in B.A. (Hons.) Statistics
+- Bachelor's Research Project on **Statistical Analysis of Virat Kohli's Centuries**
+- Strong foundation in Mathematical and Applied Statistics
 
 ---
 
