@@ -1,17 +1,3 @@
-<h1 align="center">
-  Hi 👋, I'm MD INTJAR
-</h1>
-
-<hr>
-
-<h3 align="center">
-🎓 M.Sc. in Statistics • 🌍 Geo-Spatial Analytics Researcher • 🛰 Remote Sensing & Spatial Data Analytics <br>
-🥇 University Gold Medalist • 🏛 Research Intern @ IIT Indore & IDEAS Foundation, ISI Kolkata
-</h3>
-
-<p align="center">
-Department of Statistics & Operations Research <br>
-<!-- ======================= HERO SECTION ======================= -->
 
 <h1 align="center">Hi 👋, I'm MD INTJAR</h1>
 
