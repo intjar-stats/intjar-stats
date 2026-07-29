@@ -46,9 +46,9 @@ I am **MD INTJAR**, a postgraduate student in **Statistics** at **Aligarh Muslim
 
 My research focuses on developing statistically rigorous and reproducible methods for understanding environmental and societal systems through the integration of statistical modelling, geospatial technologies, and machine learning.
 
-I have worked on projects involving satellite-based vegetation monitoring, geospatial analytics, Bayesian modelling, and AI-driven decision support systems. Through research internships and open-source development, I aim to build practical tools that transform complex data into actionable scientific insights.
+My recent work includes **NDVI-based vegetation dynamics modelling using satellite remote sensing**, **AI-powered career recommendation systems**, and **geospatial analytics for environmental applications**. I enjoy transforming complex datasets into meaningful insights through statistical modelling, computational methods, and open-source research.
 
-I believe that impactful research should be **transparent**, **reproducible**, and **accessible**, and I actively contribute to open-source research software and collaborative scientific workflows.
+As an aspiring researcher, I aim to contribute to interdisciplinary research at the intersection of **Statistics**, **Environmental Data Science**, **Artificial Intelligence**, and **Geo-Spatial Analytics**, while promoting reproducible research and open science.
 
 ---
 # 🎓 Education
