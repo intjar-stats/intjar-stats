@@ -290,8 +290,6 @@ Performed a statistical analysis of Virat Kohli's international centuries using 
 
 ---
 
----
-
 ## 🛠 Technical Skills
 
 ### Programming
