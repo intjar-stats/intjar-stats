@@ -154,8 +154,8 @@ A **Generative AI module**, integrated through the **OpenRouter API**, provides 
 
 </p>
 ---
-# 🧪 Research Projects
 
+# 🧪 Research Projects
 ---
 
 ## 🌿 NDVI Vegetation Analysis and Forecasting for Aligarh District
