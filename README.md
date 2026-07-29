@@ -97,11 +97,38 @@ Graduated with First Rank in Statistics, building a strong foundation in statist
 
 ---
 
-## 👨‍🔬 About Me
+# 🔬 Research Experience
 
-I am currently pursuing an M.Sc. in Statistics at Aligarh Muslim University. My interests lie in Spatial Statistics, Time Series Analysis, Bayesian Modelling, Machine Learning, GIS and Remote Sensing.
+---
 
-I enjoy applying statistical methods and geospatial technologies to understand environmental and real-world data.
+## Indian Institute of Technology (IIT) Indore
+
+**Research Intern**  
+*Department of Civil Engineering*  
+**2026 – Present**
+
+Conducting interdisciplinary research on environmental applications of **GIS**, **Remote Sensing**, and **Machine Learning** for sustainable spatial planning and environmental monitoring.
+
+**Highlights**
+- GIS and remote sensing for environmental analysis
+- Land-use/land-cover and spatial data processing
+- Landfill suitability assessment and illegal dumping detection
+- Machine learning applications in geospatial analytics
+
+---
+
+## IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata
+
+**Research Intern**  
+**2026**
+
+Contributed to the development of an AI-powered career guidance platform integrating **Machine Learning**, **Generative AI**, and **Explainable AI** for personalized career recommendations.
+
+**Highlights**
+- Developed an XGBoost-based recommendation system
+- Built AI-assisted skill-gap analysis and learning roadmap
+- Integrated Generative AI using OpenRouter API
+- Deployed the application using Streamlit
 
 ---
 
