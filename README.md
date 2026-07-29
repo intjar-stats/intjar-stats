@@ -1,4 +1,37 @@
+<h1 align="center">MD INTJAR</h1>
 
+<p align="center">
+<b>M.Sc. Statistics</b><br>
+Department of Statistics & Operations Research<br>
+Aligarh Muslim University, Aligarh, India
+</p>
+
+<p align="center">
+Bayesian Statistics • Geo-Spatial Analytics • Remote Sensing • Time Series Analysis • Artificial Intelligence
+</p>
+
+<p align="center">
+🥇 University Gold Medalist &nbsp;&nbsp;|&nbsp;&nbsp;
+🏛 Research Intern @ IIT Indore & ISI Kolkata
+</p>
+
+<p align="center">
+
+<a href="https://github.com/intjar-stats">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
 <h1 align="center">Hi 👋, I'm MD INTJAR</h1>
 
 <hr>
