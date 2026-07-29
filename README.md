@@ -242,86 +242,17 @@ An undergraduate research project applying statistical methods and interactive d
 > *Peer-reviewed publications, technical reports, manuscripts, and scholarly contributions.*
 
 ---
+# 📚 Publications
 
-## 📝 Manuscripts in Preparation
+Research publications will be added as manuscripts, conference papers, and journal articles become available.
 
-### 🌿 Bayesian Time-Series Modelling of Vegetation Dynamics Using MODIS NDVI Data: A Case Study of Aligarh District, India
+**Current Status**
 
-![](https://img.shields.io/badge/Status-Manuscript%20in%20Preparation-purple?style=flat-square)
-![](https://img.shields.io/badge/Field-Bayesian%20Statistics-1565C0?style=flat-square)
-![](https://img.shields.io/badge/Domain-Remote%20Sensing-00897B?style=flat-square)
-![](https://img.shields.io/badge/Year-2026-lightgrey?style=flat-square)
+- Journal Articles: —
+- Conference Papers: —
+- Preprints: —
 
-**Author:** MD INTJAR
-
-**Affiliation:** Department of Statistics & Operations Research, Aligarh Muslim University
-
-A research manuscript based on my M.Sc. dissertation investigating vegetation dynamics using **MODIS NDVI satellite imagery**, **Google Earth Engine**, **QGIS**, and **Bayesian time-series modelling** for environmental monitoring and forecasting.
-
-**Keywords**
-
-`Bayesian Statistics` • `Time Series` • `NDVI` • `Remote Sensing` • `Google Earth Engine` • `QGIS` • `R`
-
----
-
-### 🤖 AI-Powered Career Guidance System Using Explainable Machine Learning and Generative AI
-
-![](https://img.shields.io/badge/Status-Technical%20Report-blue?style=flat-square)
-![](https://img.shields.io/badge/Field-Machine%20Learning-orange?style=flat-square)
-![](https://img.shields.io/badge/Domain-Generative%20AI-purple?style=flat-square)
-![](https://img.shields.io/badge/Year-2026-lightgrey?style=flat-square)
-
-**Author:** MD INTJAR
-
-**Affiliation:** IDEAS Foundation, Indian Statistical Institute (ISI), Kolkata
-
-Technical documentation describing the design, implementation, evaluation, and deployment of an AI-powered recommendation system integrating **Machine Learning**, **Generative AI**, and **Explainable AI** for personalized career guidance.
-
-**Keywords**
-
-`Machine Learning` • `XGBoost` • `Recommendation Systems` • `Generative AI` • `Explainable AI` • `Streamlit`
-
----
-
-# 💻 Research Software
-
-### 🌿 NDVI Vegetation Dynamics Analysis Toolkit
-
-![](https://img.shields.io/badge/Open%20Source-Yes-success?style=flat-square)
-![](https://img.shields.io/badge/Language-R-276DC3?style=flat-square)
-![](https://img.shields.io/badge/License-MIT-success?style=flat-square)
-
-Open-source implementation of a complete NDVI monitoring, analysis, and forecasting workflow using **Google Earth Engine**, **QGIS**, and **R**.
-
-<p>
-
-<a href="https://github.com/intjar-stats/ndvi-vegetation-dynamics-aligarh">
-<img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-### 🤖 AI-Powered Career Guidance System
-
-![](https://img.shields.io/badge/Open%20Source-Yes-success?style=flat-square)
-![](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square)
-![](https://img.shields.io/badge/License-MIT-success?style=flat-square)
-
-Open-source web application integrating **Machine Learning**, **Generative AI**, and **Educational Data Analytics** for personalized career recommendation and explainable AI-assisted decision support.
-
-<p>
-
-<a href="https://github.com/intjar-stats/AI-Powered-Career-Guidance-System">
-<img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://ai-powered-career-guidance-system-blexmnd3bgujxy7b2u4uyl.streamlit.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-
-</p>
+*This section will be updated as future research outputs become publicly available.*
 
 ---
 
