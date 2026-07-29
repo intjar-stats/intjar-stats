@@ -359,11 +359,6 @@ Government of India
 Certified in fundamental computer concepts, digital literacy, office productivity tools, and internet applications.
 
 ---
-## 🌍 Commitment to Continuous Learning
-
-> I continuously expand my knowledge through academic research, open-source projects, scientific literature, and hands-on implementation in Statistics, Geo-Spatial Analytics, Remote Sensing, Machine Learning, and Artificial Intelligence.
-
----
 
 # 📈 GitHub Analytics
 
@@ -387,6 +382,20 @@ Certified in fundamental computer concepts, digital literacy, office productivit
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=intjar-stats&theme=github-compact&hide_border=true"/>
 </p>
 
+---
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=intjar-stats&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=intjar-stats&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=intjar-stats&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intjar-stats&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 ---
 # 🤝 Connect With Me
 
