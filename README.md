@@ -653,40 +653,28 @@ Completed the **Course on Computer Concepts (CCC)** conducted by **NIELIT**, cov
 > I continuously expand my knowledge through academic research, open-source projects, scientific literature, and hands-on implementation in Statistics, Geo-Spatial Analytics, Remote Sensing, Machine Learning, and Artificial Intelligence.
 
 ---
-## 📂 Featured Projects
+# 📈 GitHub Analytics
 
-### 🌿 NDVI Vegetation Analysis and Forecasting
-Satellite-based vegetation monitoring and forecasting using MODIS NDVI data, GEE and R.
-
-### 🏏 Cricket Analytics
-Statistical analysis of Virat Kohli's centuries using Power BI and R.
-
-### 🗺 Spatial Data Analysis
-Applications of GIS and Remote Sensing in environmental and spatial studies.
-
----
-
-## 🏆 Awards & Recognition
-
-🥇 University Gold Medalist — Patna University
-
-🎓 Merit Award Recipient (2025–26)
-
-🏛 Research Intern — IIT Indore
-
-📚 Research Intern — IDEAS Foundation, ISI Kolkata
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **intjar.bstats@gmail.com**
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/md-intjar-statistics
-
----
+> *A snapshot of my open-source contributions, research repositories, and development activity.*
 
 <p align="center">
-Exploring Statistics, Spatial Analytics, Remote Sensing and Machine Learning through Research.
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=intjar-stats&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=intjar-stats&theme=transparent&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intjar-stats&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=intjar-stats&theme=flat&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
+---
