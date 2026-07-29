@@ -263,6 +263,10 @@ Research publications will be added as manuscripts, conference papers, and journ
 ![](https://img.shields.io/badge/Open%20Source-Contributor-2E7D32?style=flat-square)
 
 ---
+# 🔹 Research Philosophy
+
+I believe that rigorous statistical thinking, reproducible computational methods, and interdisciplinary collaboration are essential for addressing complex environmental and societal challenges. My research aims to bridge theory and practice by developing transparent, data-driven methodologies that contribute to both scientific understanding and real-world decision-making.
+---
 # 🎯 Research Interests
 
 > *My research interests lie at the intersection of **Statistics**, **Geo-Spatial Analytics**, and **Artificial Intelligence**. I am particularly interested in Bayesian modelling, spatial statistics, remote sensing, and time-series analysis for studying environmental processes and supporting evidence-based decision-making.*
