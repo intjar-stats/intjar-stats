@@ -605,7 +605,54 @@ Selected for competitive research internships at **Indian Institute of Technolog
 Committed to developing **open-source, reproducible research software** and sharing scientific workflows, code, and documentation under the **MIT License** to support open science and collaborative research.
 
 ---
+# 📜 Certifications
 
+> *Professional certifications and government-recognized qualifications supporting my expertise in statistics, computing, and data analytics.*
+
+---
+
+## 🖥️ NIELIT 'O' Level Certification
+
+![](https://img.shields.io/badge/Status-Certified-success?style=flat-square)
+![](https://img.shields.io/badge/Organization-NIELIT-1565C0?style=flat-square)
+![](https://img.shields.io/badge/Government%20of%20India-Approved-FF9933?style=flat-square)
+
+Successfully completed the **NIELIT 'O' Level Certification**, gaining a strong foundation in computer applications, programming, database management, web technologies, and information technology.
+
+**Key Learning Areas**
+
+- Python Programming
+- Web Designing & Publishing
+- Database Management Systems
+- Internet of Things (IoT)
+- Information Technology Tools
+- Computer Networks
+
+---
+
+## 💻 Course on Computer Concepts (CCC)
+
+![](https://img.shields.io/badge/Status-Certified-success?style=flat-square)
+![](https://img.shields.io/badge/Organization-NIELIT-1565C0?style=flat-square)
+![](https://img.shields.io/badge/Government%20of%20India-Approved-FF9933?style=flat-square)
+
+Completed the **Course on Computer Concepts (CCC)** conducted by **NIELIT**, covering digital literacy, office productivity tools, internet applications, and e-governance services.
+
+**Key Learning Areas**
+
+- Microsoft Office
+- Internet & Email
+- Digital Communication
+- E-Governance
+- Computer Fundamentals
+
+---
+
+## 🌍 Commitment to Continuous Learning
+
+> I continuously expand my knowledge through academic research, open-source projects, scientific literature, and hands-on implementation in Statistics, Geo-Spatial Analytics, Remote Sensing, Machine Learning, and Artificial Intelligence.
+
+---
 ## 📂 Featured Projects
 
 ### 🌿 NDVI Vegetation Analysis and Forecasting
